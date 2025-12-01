@@ -1,0 +1,756 @@
+name,id,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,total_points,in_dreamteam,fixture,team,position,price,team_a,team_h,team_a_score,team_h_score,was_home,opponent,gameweek
+David Raya Martín,1,90,0,0,0,1,0,0,0,0,0,3,0,12,20.0,0.0,0.0,2.0,1,0.00,0.00,0.00,0.79,3,False,123,Arsenal,GK,59,Arsenal,Chelsea,1,1,False,Chelsea,13
+Kepa Arrizabalaga Revuelta,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,GK,42,Arsenal,Chelsea,1,1,False,Chelsea,13
+Karl Hein,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,GK,40,Arsenal,Chelsea,1,1,False,Chelsea,13
+Tommy Setford,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,GK,39,Arsenal,Chelsea,1,1,False,Chelsea,13
+Gabriel dos Santos Magalhães,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,DEF,64,Arsenal,Chelsea,1,1,False,Chelsea,13
+William Saliba,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,DEF,60,Arsenal,Chelsea,1,1,False,Chelsea,13
+Riccardo Calafiori,7,45,0,0,0,0,0,0,0,1,0,0,0,5,15.0,1.2,0.0,1.6,1,0.00,0.01,0.01,0.31,0,False,123,Arsenal,DEF,58,Arsenal,Chelsea,1,1,False,Chelsea,13
+Jurriën Timber,8,90,0,0,0,1,0,0,0,0,0,0,0,8,10.2,3.1,6.0,1.9,1,0.30,0.03,0.33,0.79,2,False,123,Arsenal,DEF,64,Arsenal,Chelsea,1,1,False,Chelsea,13
+Jakub Kiwior,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,DEF,54,Arsenal,Chelsea,1,1,False,Chelsea,13
+Myles Lewis-Skelly,10,45,0,0,0,1,0,0,0,1,0,0,0,-1,0.4,2.2,0.0,0.3,0,0.00,0.02,0.02,0.48,0,False,123,Arsenal,DEF,51,Arsenal,Chelsea,1,1,False,Chelsea,13
+Benjamin White,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,DEF,53,Arsenal,Chelsea,1,1,False,Chelsea,13
+Oleksandr Zinchenko,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,DEF,49,Brighton,Nottingham,2,0,True,Brighton,13
+Brayden Clarke,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,DEF,38,Arsenal,Chelsea,1,1,False,Chelsea,13
+Maldini Kacurri,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,DEF,39,Arsenal,Chelsea,1,1,False,Chelsea,13
+Josh Nichols,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,DEF,38,Arsenal,Chelsea,1,1,False,Chelsea,13
+Bukayo Saka,16,90,0,1,0,1,0,0,0,0,0,0,0,21,22.0,16.6,27.0,6.6,1,0.19,0.58,0.77,0.79,5,False,123,Arsenal,MID,101,Arsenal,Chelsea,1,1,False,Chelsea,13
+Martin Ødegaard,17,33,0,0,0,0,0,0,0,0,0,0,0,3,1.4,2.8,0.0,0.4,0,0.00,0.04,0.04,0.27,1,False,123,Arsenal,MID,78,Arsenal,Chelsea,1,1,False,Chelsea,13
+Noni Madueke,18,33,0,0,0,0,0,0,0,0,0,0,0,2,0.0,2.1,4.0,0.6,0,0.00,0.03,0.03,0.27,1,False,123,Arsenal,MID,68,Arsenal,Chelsea,1,1,False,Chelsea,13
+Gabriel Martinelli Silva,19,56,0,0,0,1,0,0,0,0,0,0,0,3,2.2,1.3,9.0,1.3,1,0.11,0.01,0.12,0.52,1,False,123,Arsenal,MID,68,Arsenal,Chelsea,1,1,False,Chelsea,13
+Leandro Trossard,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,MID,69,Arsenal,Chelsea,1,1,False,Chelsea,13
+Declan Rice,21,90,0,0,0,1,0,0,0,0,0,0,0,16,28.0,19.3,0.0,4.7,1,0.00,0.07,0.07,0.79,4,False,123,Arsenal,MID,70,Arsenal,Chelsea,1,1,False,Chelsea,13
+Mikel Merino Zazón,22,90,1,0,0,1,0,0,0,0,0,0,2,28,34.2,2.3,35.0,7.2,1,0.65,0.02,0.67,0.79,9,False,123,Arsenal,MID,59,Arsenal,Chelsea,1,1,False,Chelsea,13
+Fábio Ferreira Vieira,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,MID,54,Arsenal,Chelsea,1,1,False,Chelsea,13
+Christian Nørgaard,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,MID,52,Arsenal,Chelsea,1,1,False,Chelsea,13
+Ethan Nwaneri,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,MID,51,Arsenal,Chelsea,1,1,False,Chelsea,13
+Martín Zubimendi Ibáñez,26,56,0,0,0,1,0,0,0,1,0,0,0,1,2.2,11.4,0.0,1.4,1,0.00,0.01,0.01,0.52,0,False,123,Arsenal,MID,53,Arsenal,Chelsea,1,1,False,Chelsea,13
+Reiss Nelson,27,15,0,0,0,1,0,0,0,0,0,0,0,3,7.2,0.2,0.0,0.7,0,0.00,0.00,0.00,0.80,1,False,122,Brentford,MID,48,Burnley,Brentford,1,3,True,Burnley,13
+Ismeal Kabia,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,MID,45,Arsenal,Chelsea,1,1,False,Chelsea,13
+Albert Sambi Lokonga,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,MID,45,Arsenal,Chelsea,1,1,False,Chelsea,13
+Kai Havertz,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,FWD,73,Arsenal,Chelsea,1,1,False,Chelsea,13
+Gabriel Fernando de Jesus,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,FWD,64,Arsenal,Chelsea,1,1,False,Chelsea,13
+Emiliano Martínez Romero,32,90,0,0,1,0,0,0,0,0,0,4,0,30,31.4,0.0,0.0,3.1,1,0.00,0.00,0.00,0.49,7,False,121,Aston Villa,GK,50,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Marco Bizot,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,GK,43,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Joe Gauci,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,GK,40,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Filip Marschall,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,GK,40,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Matty Cash,36,90,0,0,1,0,0,0,0,0,0,0,0,28,14.0,6.0,21.0,4.1,1,0.03,0.03,0.06,0.49,6,False,121,Aston Villa,DEF,47,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Lucas Digne,37,90,0,0,1,0,0,0,0,0,0,0,1,31,11.8,35.6,3.0,5.0,1,0.08,0.09,0.17,0.49,7,False,121,Aston Villa,DEF,45,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Ezri Konsa Ngoyo,38,90,0,0,1,0,0,0,0,0,0,0,2,32,27.2,22.3,2.0,5.2,1,0.00,0.03,0.03,0.49,8,False,121,Aston Villa,DEF,44,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Ian Maatsen,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,DEF,42,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Tyrone Mings,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,DEF,44,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Pau Torres,41,90,0,0,1,0,0,0,0,0,0,0,0,24,14.4,3.1,7.0,2.5,1,0.12,0.02,0.14,0.49,6,False,121,Aston Villa,DEF,43,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Andrés García,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,DEF,39,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Álex Moreno Lopera,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,DEF,40,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Lamare Bogarde,44,2,0,0,0,0,0,0,0,0,0,0,0,3,2.4,0.2,0.0,0.3,0,0.00,0.00,0.00,0.20,1,False,121,Aston Villa,DEF,40,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Lino da Cruz Sousa,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,DEF,39,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Yasin Özcan,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,DEF,40,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Morgan Rogers,47,90,0,0,1,0,0,0,0,0,0,0,0,3,0.0,2.9,23.0,2.5,1,0.08,0.04,0.12,0.49,3,False,121,Aston Villa,MID,69,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Youri Tielemans,48,74,0,0,1,0,0,0,0,0,0,0,0,23,30.4,30.6,29.0,9.0,1,0.07,0.40,0.47,0.29,3,False,121,Aston Villa,MID,59,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Leon Bailey,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,55,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Emiliano Buendía Stati,50,53,0,0,0,0,0,0,0,0,0,0,0,1,0.4,13.6,4.0,1.8,1,0.00,0.04,0.04,0.27,1,False,121,Aston Villa,MID,53,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Samuel Iling-Junior,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,55,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Jacob Ramsey,52,19,0,0,0,0,0,0,0,0,0,0,0,2,6.8,12.3,19.0,3.8,0,0.22,0.03,0.25,0.15,1,False,125,Newcastle,MID,53,Newcastle,Everton,4,1,False,Everton,13
+Donyell Malen,53,74,0,0,1,0,0,0,0,0,0,0,0,8,1.4,1.8,40.0,4.3,1,0.50,0.02,0.52,0.29,3,False,121,Aston Villa,MID,51,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+John McGinn,54,90,0,1,1,0,0,0,0,0,0,0,1,31,35.4,50.1,11.0,9.7,1,0.02,0.10,0.12,0.49,9,False,121,Aston Villa,MID,54,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Ross Barkley,55,12,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.3,0.0,0.0,0,0.00,0.00,0.00,0.00,1,False,121,Aston Villa,MID,48,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Enzo Barrenechea,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,50,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Lewis Dobbin,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,50,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Boubacar Kamara,58,87,1,0,1,0,0,0,0,0,0,0,3,35,44.4,4.3,7.0,5.6,1,0.09,0.03,0.12,0.29,11,False,121,Aston Villa,MID,49,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Amadou Onana,59,15,0,0,0,0,0,0,0,0,0,0,0,5,6.2,0.4,0.0,0.7,0,0.00,0.00,0.00,0.20,1,False,121,Aston Villa,MID,48,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Ben Broggio,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,45,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Leander Dendoncker,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,45,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Jamaldeen Jimoh-Aloba,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,45,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Kadan Young,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,44,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Ollie Watkins,64,36,0,0,0,0,0,0,0,0,0,0,0,3,3.4,11.1,2.0,1.7,0,0.00,0.04,0.04,0.22,1,False,121,Aston Villa,FWD,85,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Zépiqueno Redmond,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,FWD,45,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Norberto Murara Neto,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,GK,45,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Đorđe Petrović,67,90,0,0,0,3,0,0,0,0,0,3,0,5,22.6,0.0,0.0,2.3,1,0.00,0.00,0.00,1.28,2,False,128,Bournemouth,GK,45,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Will Dennis,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,GK,40,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Callan McKenna,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,GK,40,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Alex Paulsen,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,GK,40,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Illia Zabarnyi,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,DEF,50,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Marcos Senesi Barón,72,90,0,0,0,3,0,0,0,1,0,0,0,10,38.0,39.9,2.0,8.0,1,0.00,0.35,0.35,1.28,2,False,128,Bournemouth,DEF,50,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Adam Smith,73,79,0,0,0,3,0,0,0,0,0,0,0,-1,5.8,2.5,2.0,1.0,1,0.00,0.01,0.01,1.20,1,False,128,Bournemouth,DEF,44,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Adrien Truffert,74,90,0,0,0,3,0,0,0,0,0,0,0,4,20.6,13.3,21.0,5.5,1,0.04,0.01,0.05,1.28,1,False,128,Bournemouth,DEF,45,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Matai Akinmboni,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,DEF,39,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Owen Bevan,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,DEF,39,Bournemouth,Sunderland,2,3,False,Sunderland,13
+James Hill,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,DEF,40,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Julián Araujo Zúñiga,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,DEF,39,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Chris Mepham,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,DEF,40,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Julio Soler Barreto,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,DEF,40,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Justin Kluivert,81,19,0,0,0,0,0,0,0,0,0,0,0,2,1.4,2.8,2.0,0.6,0,0.00,0.02,0.02,0.07,1,False,128,Bournemouth,MID,70,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Antoine Semenyo,82,90,0,0,0,3,0,0,0,1,0,0,0,6,5.0,52.8,23.0,8.1,1,0.10,0.50,0.60,1.28,1,False,128,Bournemouth,MID,78,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Dango Ouattara,83,90,1,1,0,1,0,0,0,0,0,0,2,38,42.8,27.3,36.0,10.6,1,0.77,0.23,1.00,0.95,12,True,122,Brentford,MID,60,Burnley,Brentford,1,3,True,Burnley,13
+Marcus Tavernier,84,90,0,0,0,3,0,0,0,1,0,0,0,10,11.8,50.0,17.0,7.9,1,0.20,0.13,0.33,1.28,1,False,128,Bournemouth,MID,55,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Tyler Adams,85,70,1,0,0,3,0,0,0,0,0,0,2,33,39.8,1.8,13.0,5.5,1,0.03,0.01,0.04,1.20,9,False,128,Bournemouth,MID,50,Bournemouth,Sunderland,2,3,False,Sunderland,13
+David Brooks,86,19,0,0,0,0,0,0,0,1,0,0,0,4,7.6,5.9,21.0,3.5,0,0.03,0.13,0.16,0.07,0,False,128,Bournemouth,MID,50,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Ryan Christie,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,50,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Lewis Cook,88,45,0,0,0,2,0,0,0,0,1,0,0,-3,3.8,2.8,4.0,1.1,0,0.00,0.02,0.02,0.22,-2,False,128,Bournemouth,MID,49,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Philip Billing,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,49,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Alex Scott,90,45,0,0,0,1,0,0,0,1,0,0,0,-7,0.0,0.5,4.0,0.0,1,0.07,0.00,0.07,1.06,0,False,128,Bournemouth,MID,50,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Luis Sinisterra Lucumí,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,50,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Romain Faivre,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,45,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Hamed Traorè,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,45,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Dominic Sadi,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,45,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Zain Silcott-Duberry,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,44,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Ben Winterburn,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,45,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Francisco Evanilson de Lima Barbosa,97,79,0,1,0,3,0,0,0,0,0,0,0,15,3.2,1.3,59.0,6.4,1,0.95,0.01,0.96,1.20,5,False,128,Bournemouth,FWD,70,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Enes Ünal,98,10,0,0,0,0,0,0,0,0,0,0,0,3,0.0,1.3,3.0,0.3,0,0.05,0.04,0.09,0.07,1,False,128,Bournemouth,FWD,54,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Daniel Adu-Adjei,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,FWD,44,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Junior Kroupi,100,10,0,0,0,0,0,0,0,0,0,0,0,2,0.0,2.0,2.0,0.3,0,0.00,0.00,0.00,0.07,1,False,128,Bournemouth,FWD,46,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Caoimhín Kelleher,101,90,0,0,0,1,0,0,0,0,0,1,0,7,10.8,0.0,0.0,1.1,1,0.00,0.00,0.00,0.95,2,False,122,Brentford,GK,45,Burnley,Brentford,1,3,True,Burnley,13
+Ellery Balcombe,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,GK,40,Burnley,Brentford,1,3,True,Burnley,13
+Matthew Cox,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,GK,40,Burnley,Brentford,1,3,True,Burnley,13
+Julian Eyestone,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,GK,39,Burnley,Brentford,1,3,True,Burnley,13
+Hákon Rafn Valdimarsson,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,GK,39,Burnley,Brentford,1,3,True,Burnley,13
+Nathan Collins,106,90,0,0,0,1,0,0,0,0,0,0,0,13,43.4,10.7,18.0,7.2,1,0.64,0.01,0.65,0.95,4,False,122,Brentford,DEF,49,Burnley,Brentford,1,3,True,Burnley,13
+Keane Lewis-Potter,107,1,0,0,0,0,0,0,0,0,0,0,0,2,0.2,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,1,False,122,Brentford,DEF,48,Burnley,Brentford,1,3,True,Burnley,13
+Kristoffer Ajer,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,DEF,44,Burnley,Brentford,1,3,True,Burnley,13
+Rico Henry,109,16,0,0,0,1,0,0,0,0,0,0,0,-1,1.0,0.6,2.0,0.4,0,0.00,0.00,0.00,0.80,1,False,122,Brentford,DEF,43,Burnley,Brentford,1,3,True,Burnley,13
+Michael Kayode,110,90,0,0,0,1,0,0,0,0,0,0,0,7,13.8,16.9,4.0,3.5,1,0.00,0.12,0.12,0.95,2,False,122,Brentford,DEF,45,Burnley,Brentford,1,3,True,Burnley,13
+Ethan Pinnock,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,DEF,43,Burnley,Brentford,1,3,True,Burnley,13
+Mads Roerslev Rasmussen,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,DEF,45,Burnley,Brentford,1,3,True,Burnley,13
+Sepp van den Berg,113,90,0,0,0,1,0,0,0,0,0,0,0,14,19.2,10.7,8.0,3.8,1,0.09,0.01,0.10,0.95,2,False,122,Brentford,DEF,45,Burnley,Brentford,1,3,True,Burnley,13
+Benjamin Arthur,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,DEF,39,Burnley,Brentford,1,3,True,Burnley,13
+Benjamin Fredrick,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,DEF,40,Burnley,Brentford,1,3,True,Burnley,13
+Aaron Hickey,116,73,0,0,1,0,0,0,0,0,0,0,0,17,16.4,2.3,6.0,2.5,1,0.21,0.04,0.25,0.14,8,False,122,Brentford,DEF,40,Burnley,Brentford,1,3,True,Burnley,13
+Kim Ji-soo,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,DEF,39,Burnley,Brentford,1,3,True,Burnley,13
+Jayden Meghoma,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,DEF,40,Burnley,Brentford,1,3,True,Burnley,13
+Bryan Mbeumo,119,90,0,0,0,1,0,0,0,1,0,0,0,3,2.2,2.9,53.0,5.8,1,0.41,0.01,0.42,1.72,1,False,124,Manchester United,MID,86,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Kevin Schade,120,74,0,0,1,0,0,0,0,0,0,0,0,6,16.6,26.1,8.0,5.1,1,0.00,0.06,0.06,0.14,3,False,122,Brentford,MID,70,Burnley,Brentford,1,3,True,Burnley,13
+Mikkel Damsgaard,121,90,0,0,0,1,0,0,0,0,0,0,0,20,17.0,41.3,16.0,7.4,1,0.17,0.22,0.39,0.95,4,False,122,Brentford,MID,58,Burnley,Brentford,1,3,True,Burnley,13
+Antoni Milambo,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,52,Burnley,Brentford,1,3,True,Burnley,13
+Fábio Freitas Gouveia Carvalho,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,48,Burnley,Brentford,1,3,True,Burnley,13
+Jordan Henderson,124,90,0,1,0,1,0,0,0,0,0,0,1,26,28.2,17.0,2.0,4.7,1,0.00,0.09,0.09,0.95,8,False,122,Brentford,MID,50,Burnley,Brentford,1,3,True,Burnley,13
+Vitaly Janelt,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,49,Burnley,Brentford,1,3,True,Burnley,13
+Mathias Jensen,126,84,0,0,0,1,0,0,0,0,0,0,0,10,4.4,4.3,2.0,1.1,1,0.00,0.02,0.02,0.93,2,False,122,Brentford,MID,49,Burnley,Brentford,1,3,True,Burnley,13
+Gustavo Nunes Fernandes Gomes,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,49,Burnley,Brentford,1,3,True,Burnley,13
+Frank Onyeka,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,48,Burnley,Brentford,1,3,True,Burnley,13
+Yehor Yarmoliuk,129,5,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.3,0.0,0.1,0,0.00,0.00,0.00,0.02,1,False,122,Brentford,MID,50,Burnley,Brentford,1,3,True,Burnley,13
+Romelle Donovan,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,45,Burnley,Brentford,1,3,True,Burnley,13
+Yunus Emre Konak,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,43,Burnley,Brentford,1,3,True,Burnley,13
+Paris Maghoma,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,45,Burnley,Brentford,1,3,True,Burnley,13
+Myles Peart-Harris,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,44,Burnley,Brentford,1,3,True,Burnley,13
+Ryan Trevitt,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,45,Burnley,Brentford,1,3,True,Burnley,13
+Yoane Wissa,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,FWD,73,Newcastle,Everton,4,1,False,Everton,13
+Igor Thiago Nascimento Rodrigues,136,90,2,0,0,1,0,0,0,0,0,0,3,46,67.2,1.0,64.0,13.2,1,1.17,0.01,1.18,0.95,13,True,122,Brentford,FWD,67,Burnley,Brentford,1,3,True,Burnley,13
+Iwan Morgan,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,FWD,44,Burnley,Brentford,1,3,True,Burnley,13
+Jason Steele,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,GK,43,Brighton,Nottingham,2,0,False,Nottingham,13
+Bart Verbruggen,139,90,0,0,1,0,0,0,0,0,0,3,0,33,31.2,0.0,0.0,3.1,1,0.00,0.00,0.00,0.71,7,True,127,Brighton,GK,44,Brighton,Nottingham,2,0,False,Nottingham,13
+Tom McGill,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,GK,40,Brighton,Nottingham,2,0,False,Nottingham,13
+Carl Rushworth,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,GK,40,Brighton,Nottingham,2,0,False,Nottingham,13
+Kjell Scherpen,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,GK,40,Brighton,Nottingham,2,0,False,Nottingham,13
+Olivier Boscagli,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,DEF,42,Brighton,Nottingham,2,0,False,Nottingham,13
+Diego Coppola,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,DEF,43,Brighton,Nottingham,2,0,False,Nottingham,13
+Maxim De Cuyper,145,83,1,0,1,0,0,0,0,0,0,0,3,49,49.8,55.5,21.0,12.6,1,0.40,0.29,0.69,0.70,15,True,127,Brighton,DEF,43,Brighton,Nottingham,2,0,False,Nottingham,13
+Lewis Dunk,146,90,0,0,1,0,0,0,0,0,0,0,0,29,24.4,0.8,2.0,2.7,1,0.00,0.01,0.01,0.71,6,False,127,Brighton,DEF,45,Brighton,Nottingham,2,0,False,Nottingham,13
+Pervis Estupiñán Tenorio,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,DEF,45,Brighton,Nottingham,2,0,False,Nottingham,13
+Ferdi Kadıoğlu,148,90,0,0,1,0,0,0,0,0,0,0,1,34,15.2,1.8,21.0,3.8,1,0.17,0.01,0.18,0.71,7,False,127,Brighton,DEF,44,Brighton,Nottingham,2,0,False,Nottingham,13
+Igor Julio dos Santos de Paulo,149,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,DEF,45,Liverpool,West Ham,2,0,True,Liverpool,13
+Tariq Lamptey,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,DEF,44,Brighton,Nottingham,2,0,False,Nottingham,13
+Jan Paul van Hecke,151,90,0,0,1,0,0,0,0,0,0,0,0,25,13.4,1.1,0.0,1.5,1,0.00,0.01,0.01,0.71,6,False,127,Brighton,DEF,44,Brighton,Nottingham,2,0,False,Nottingham,13
+Joël Veltman,152,6,0,0,0,0,0,0,0,0,0,0,0,4,6.0,0.0,0.0,0.6,0,0.00,0.00,0.00,0.01,1,False,127,Brighton,DEF,43,Brighton,Nottingham,2,0,False,Nottingham,13
+Adam Webster,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,DEF,44,Brighton,Nottingham,2,0,False,Nottingham,13
+Eiran Cashin,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,DEF,40,Brighton,Nottingham,2,0,False,Nottingham,13
+Jacob Slater,155,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,DEF,40,Brighton,Nottingham,2,0,False,Nottingham,13
+Charlie Tasker,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,DEF,39,Brighton,Nottingham,2,0,False,Nottingham,13
+Mitoma Kaoru,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,61,Brighton,Nottingham,2,0,False,Nottingham,13
+Georginio Rutter,158,55,0,1,0,0,0,0,0,0,0,0,0,13,4.6,4.1,20.0,2.9,1,0.41,0.07,0.48,0.45,4,False,127,Brighton,MID,57,Brighton,Nottingham,2,0,False,Nottingham,13
+Solly March,159,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,58,Brighton,Nottingham,2,0,False,Nottingham,13
+Yankuba Minteh,160,83,0,0,1,0,0,0,0,0,0,0,0,7,12.0,32.1,17.0,6.1,1,0.01,0.12,0.13,0.70,3,False,127,Brighton,MID,62,Brighton,Nottingham,2,0,False,Nottingham,13
+Julio Enciso Espínola,161,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,54,Brighton,Nottingham,2,0,False,Nottingham,13
+Brajan Gruda,162,6,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.1,0.0,0.0,0,0.00,0.00,0.00,0.01,1,False,127,Brighton,MID,54,Brighton,Nottingham,2,0,False,Nottingham,13
+Jack Hinshelwood,163,34,0,0,0,0,0,0,0,0,0,0,0,3,7.6,0.4,0.0,0.8,0,0.00,0.00,0.00,0.27,1,False,127,Brighton,MID,51,Brighton,Nottingham,2,0,False,Nottingham,13
+Matt O'Riley,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,55,Brighton,Nottingham,2,0,False,Nottingham,13
+Abdallah Sima,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,54,Brighton,Nottingham,2,0,False,Nottingham,13
+Yasin Ayari,166,90,0,0,1,0,0,0,0,0,0,0,0,13,4.6,1.5,2.0,0.8,1,0.09,0.01,0.10,0.71,3,False,127,Brighton,MID,49,Brighton,Nottingham,2,0,False,Nottingham,13
+Carlos Baleba,167,6,0,0,0,0,0,0,0,0,0,0,0,3,5.0,0.1,0.0,0.5,0,0.00,0.00,0.00,0.01,1,False,127,Brighton,MID,47,Brighton,Nottingham,2,0,False,Nottingham,13
+Facundo Buonanotte,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,47,Arsenal,Chelsea,1,1,True,Arsenal,13
+Diego Gómez Amarilla,169,83,0,0,1,0,0,0,0,0,0,0,0,14,20.8,16.8,25.0,6.3,1,0.12,0.25,0.37,0.70,3,False,127,Brighton,MID,49,Brighton,Nottingham,2,0,False,Nottingham,13
+James Milner,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,49,Brighton,Nottingham,2,0,False,Nottingham,13
+Jeremy Sarmiento Morante,171,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,49,Brighton,Nottingham,2,0,False,Nottingham,13
+Tom Watson,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,48,Brighton,Nottingham,2,0,False,Nottingham,13
+Mats Wieffer,173,90,0,0,1,0,0,0,0,1,0,0,0,20,41.0,34.6,11.0,8.7,1,0.17,0.03,0.20,0.71,4,False,127,Brighton,MID,49,Brighton,Nottingham,2,0,False,Nottingham,13
+Malick Yalcouyé,174,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,50,Brighton,Nottingham,2,0,False,Nottingham,13
+Joe Knight,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,45,Brighton,Nottingham,2,0,False,Nottingham,13
+Adrian Mazilu,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,45,Brighton,Nottingham,2,0,False,Nottingham,13
+Andrew Moran,177,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,45,Brighton,Nottingham,2,0,False,Nottingham,13
+Danny Welbeck,178,64,0,0,1,0,0,0,0,0,0,0,0,9,7.6,3.4,13.0,2.4,1,0.07,0.01,0.08,0.49,2,False,127,Brighton,FWD,66,Brighton,Nottingham,2,0,False,Nottingham,13
+Evan Ferguson,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,FWD,55,Brighton,Nottingham,2,0,False,Nottingham,13
+Stefanos Tzimas,180,25,1,0,0,0,0,0,0,0,0,0,0,27,38.2,0.0,19.0,5.7,0,0.09,0.00,0.09,0.22,5,False,127,Brighton,FWD,53,Brighton,Nottingham,2,0,False,Nottingham,13
+Charalampos Kostoulas,181,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,FWD,48,Brighton,Nottingham,2,0,False,Nottingham,13
+James Trafford,182,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,GK,46,Leeds United,Manchester City,2,3,True,Leeds United,13
+Max Weiß,183,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,GK,43,Burnley,Brentford,1,3,False,Brentford,13
+Etienne Green,184,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,GK,40,Burnley,Brentford,1,3,False,Brentford,13
+Václav Hladký,185,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,GK,39,Burnley,Brentford,1,3,False,Brentford,13
+Connor Roberts,186,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,44,Burnley,Brentford,1,3,False,Brentford,13
+Kyle Walker,187,90,0,0,0,3,0,0,0,0,0,0,0,10,22.6,1.3,0.0,2.4,1,0.00,0.01,0.01,3.06,3,False,122,Burnley,DEF,44,Burnley,Brentford,1,3,False,Brentford,13
+Hannes Delcroix,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,38,Burnley,Brentford,1,3,False,Brentford,13
+Owen Dodgson,189,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,40,Burnley,Brentford,1,3,False,Brentford,13
+Hjalmar Ekdal,190,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,40,Burnley,Brentford,1,3,False,Brentford,13
+Maxime Estève,191,90,0,0,0,3,0,0,0,0,0,0,0,6,21.4,0.7,0.0,2.2,1,0.00,0.00,0.00,3.06,3,False,122,Burnley,DEF,39,Burnley,Brentford,1,3,False,Brentford,13
+Quilindschy Hartman,192,90,0,0,0,3,0,0,0,0,0,0,0,8,24.2,11.3,1.0,3.7,1,0.02,0.01,0.03,3.06,3,False,122,Burnley,DEF,40,Burnley,Brentford,1,3,False,Brentford,13
+Bashir Humphreys,193,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,39,Burnley,Brentford,1,3,False,Brentford,13
+Jordan Beyer,194,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,40,Burnley,Brentford,1,3,False,Brentford,13
+Lucas Pires Silva,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,38,Burnley,Brentford,1,3,False,Brentford,13
+Shurandy Sambo,196,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,40,Burnley,Brentford,1,3,False,Brentford,13
+Oliver Sonne,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,39,Burnley,Brentford,1,3,False,Brentford,13
+Axel Tuanzebe,198,90,0,0,0,3,0,0,0,1,0,0,0,-9,9.4,0.3,0.0,1.0,1,0.00,0.01,0.01,3.06,0,False,122,Burnley,DEF,39,Burnley,Brentford,1,3,False,Brentford,13
+Joe Worrall,199,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,DEF,39,Burnley,Brentford,1,3,False,Brentford,13
+Jaidon Anthony,200,15,0,1,0,3,0,0,0,0,0,0,0,13,0.2,1.3,2.0,0.4,0,0.00,0.00,0.00,1.55,4,False,122,Burnley,MID,55,Burnley,Brentford,1,3,False,Brentford,13
+Manuel Benson Hedilazio,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,MID,54,Burnley,Brentford,1,3,False,Brentford,13
+Jacob Bruun Larsen,202,15,0,0,0,3,0,0,0,0,0,0,0,3,0.6,1.3,0.0,0.2,0,0.00,0.04,0.04,1.55,1,False,122,Burnley,MID,53,Burnley,Brentford,1,3,False,Brentford,13
+Enock Agyei,203,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,MID,48,Burnley,Brentford,1,3,False,Brentford,13
+Darko Churlinov,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,MID,49,Burnley,Brentford,1,3,False,Brentford,13
+Josh Cullen,205,80,0,0,0,1,0,0,0,0,0,0,0,10,4.0,2.1,0.0,0.6,1,0.00,0.01,0.01,2.31,2,False,122,Burnley,MID,50,Burnley,Brentford,1,3,False,Brentford,13
+Marcus Edwards,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,MID,47,Burnley,Brentford,1,3,False,Brentford,13
+Hannibal Mejbri,207,59,0,0,0,0,0,0,0,1,0,0,0,1,0.4,2.5,6.0,0.9,1,0.09,0.03,0.12,1.35,0,False,122,Burnley,MID,48,Burnley,Brentford,1,3,False,Brentford,13
+Luca Koleosho,208,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,MID,50,Burnley,Brentford,1,3,False,Brentford,13
+Josh Laurent,209,15,0,0,0,3,0,0,0,0,0,0,0,7,6.4,15.7,0.0,2.2,0,0.00,0.03,0.03,1.55,1,False,122,Burnley,MID,49,Burnley,Brentford,1,3,False,Brentford,13
+Loum Tchaouna,210,74,0,0,1,0,0,0,0,0,0,0,0,7,7.2,2.8,8.0,1.8,1,0.00,0.01,0.01,1.52,3,False,122,Burnley,MID,49,Burnley,Brentford,1,3,False,Brentford,13
+Aaron Ramsey,211,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,MID,44,Burnley,Brentford,1,3,False,Brentford,13
+Oluwaseun Adewumi,212,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,MID,45,Burnley,Brentford,1,3,False,Brentford,13
+Jaydon Banel,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,MID,45,Burnley,Brentford,1,3,False,Brentford,13
+Mike Trésor Ndayishimiye,214,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,MID,44,Burnley,Brentford,1,3,False,Brentford,13
+Zian Flemming,215,90,1,0,0,3,0,0,0,0,0,0,0,21,39.0,1.2,31.0,7.1,1,0.85,0.02,0.87,3.06,6,False,122,Burnley,FWD,53,Burnley,Brentford,1,3,False,Brentford,13
+Zeki Amdouni,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,FWD,48,Burnley,Brentford,1,3,False,Brentford,13
+Lyle Foster,217,74,0,0,1,0,0,0,0,0,0,0,0,9,6.0,0.4,6.0,1.2,1,0.00,0.00,0.00,1.52,2,False,122,Burnley,FWD,50,Burnley,Brentford,1,3,False,Brentford,13
+Ashley Barnes,218,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,FWD,43,Burnley,Brentford,1,3,False,Brentford,13
+Michael Obafemi,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Burnley,FWD,44,Burnley,Brentford,1,3,False,Brentford,13
+Robert Lynch Sánchez,220,90,0,0,0,1,0,0,0,0,0,3,0,16,22.8,10.0,0.0,3.3,1,0.00,0.01,0.01,1.26,3,False,123,Chelsea,GK,48,Arsenal,Chelsea,1,1,True,Arsenal,13
+Filip Jörgensen,221,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,GK,43,Arsenal,Chelsea,1,1,True,Arsenal,13
+Mike Penders,222,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,GK,40,Arsenal,Chelsea,1,1,True,Arsenal,13
+Gabriel Słonina,223,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,GK,39,Arsenal,Chelsea,1,1,True,Arsenal,13
+Marc Cucurella Saseta,224,90,0,0,0,1,0,0,0,1,0,0,0,1,18.6,24.5,4.0,4.7,1,0.00,0.20,0.20,1.26,1,False,123,Chelsea,DEF,61,Arsenal,Chelsea,1,1,True,Arsenal,13
+Reece James,225,90,0,1,0,1,0,0,0,0,0,0,3,30,28.2,35.3,2.0,6.6,1,0.02,0.16,0.18,1.26,8,False,123,Chelsea,DEF,56,Arsenal,Chelsea,1,1,True,Arsenal,13
+Trevoh Chalobah,226,90,1,0,0,1,0,0,0,0,0,0,1,26,44.2,0.3,33.0,7.8,1,0.07,0.00,0.07,1.26,9,False,123,Chelsea,DEF,51,Arsenal,Chelsea,1,1,True,Arsenal,13
+Levi Samuels Colwill,227,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,DEF,48,Arsenal,Chelsea,1,1,True,Arsenal,13
+Malo Gusto,228,90,0,0,0,1,0,0,0,0,0,0,0,6,14.2,11.8,0.0,2.6,1,0.00,0.01,0.01,1.26,2,False,123,Chelsea,DEF,49,Arsenal,Chelsea,1,1,True,Arsenal,13
+Benoît Badiashile Mukinayi,229,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,DEF,44,Arsenal,Chelsea,1,1,True,Arsenal,13
+Wesley Fofana,230,90,0,0,0,1,0,0,0,0,0,0,0,15,15.2,0.4,6.0,2.2,1,0.12,0.00,0.12,1.26,4,False,123,Chelsea,DEF,44,Arsenal,Chelsea,1,1,True,Arsenal,13
+Mamadou Sarr,231,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,DEF,45,Arsenal,Chelsea,1,1,True,Arsenal,13
+Tosin Adarabioyo,232,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,DEF,42,Arsenal,Chelsea,1,1,True,Arsenal,13
+Josh Acheampong,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,DEF,39,Arsenal,Chelsea,1,1,True,Arsenal,13
+Aarón Anselmino,234,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,DEF,40,Arsenal,Chelsea,1,1,True,Arsenal,13
+Cole Palmer,235,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,103,Arsenal,Chelsea,1,1,True,Arsenal,13
+Pedro Lomba Neto,236,90,0,0,0,1,0,0,0,0,0,0,0,3,2.4,5.8,14.0,2.2,1,0.20,0.05,0.25,1.26,2,False,123,Chelsea,MID,72,Arsenal,Chelsea,1,1,True,Arsenal,13
+Enzo Fernández,237,90,0,0,0,1,0,0,0,0,0,0,0,8,14.4,11.3,9.0,3.5,1,0.11,0.05,0.16,1.26,2,False,123,Chelsea,MID,67,Arsenal,Chelsea,1,1,True,Arsenal,13
+Estêvão Almeida de Oliveira Gonçalves,238,45,0,0,0,0,0,0,0,0,0,0,0,2,1.8,31.0,9.0,4.2,1,0.11,0.03,0.14,0.25,1,False,123,Chelsea,MID,65,Arsenal,Chelsea,1,1,True,Arsenal,13
+Jamie Bynoe-Gittens,239,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,61,Arsenal,Chelsea,1,1,True,Arsenal,13
+Christopher Nkunku,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,59,Arsenal,Chelsea,1,1,True,Arsenal,13
+Moisés Caicedo Corozo,241,37,0,0,0,1,0,0,0,0,1,0,0,-3,0.0,1.8,0.0,0.0,1,0.00,0.01,0.01,0.13,-2,False,123,Chelsea,MID,60,Arsenal,Chelsea,1,1,True,Arsenal,13
+Kiernan Dewsbury-Hall,242,90,1,0,0,4,0,0,0,0,0,0,0,30,42.2,18.1,51.0,11.1,1,0.51,0.26,0.77,1.91,7,False,125,Everton,MID,49,Newcastle,Everton,4,1,True,Newcastle,13
+Tyrique George,243,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,49,Arsenal,Chelsea,1,1,True,Arsenal,13
+Roméo Lavia,244,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,49,Arsenal,Chelsea,1,1,True,Arsenal,13
+Mykhailo Mudryk,245,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,49,Arsenal,Chelsea,1,1,True,Arsenal,13
+Andrey Nascimento dos Santos,246,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,45,Arsenal,Chelsea,1,1,True,Arsenal,13
+Dário Luís Essugo,247,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,43,Arsenal,Chelsea,1,1,True,Arsenal,13
+Kendry Páez Andrade,248,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,45,Arsenal,Chelsea,1,1,True,Arsenal,13
+João Pedro Junqueira de Jesus,249,54,0,0,0,0,0,0,0,0,0,0,0,2,2.6,1.2,37.0,4.1,1,0.15,0.03,0.18,0.27,1,False,123,Chelsea,FWD,74,Arsenal,Chelsea,1,1,True,Arsenal,13
+Liam Delap,250,35,0,0,0,1,0,0,0,0,0,0,0,3,2.0,0.4,9.0,1.1,0,0.03,0.00,0.03,0.99,1,False,123,Chelsea,FWD,62,Arsenal,Chelsea,1,1,True,Arsenal,13
+Nicolas Jackson,251,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,FWD,65,Arsenal,Chelsea,1,1,True,Arsenal,13
+Marc Guiu Paz,252,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,FWD,42,Arsenal,Chelsea,1,1,True,Arsenal,13
+Dean Henderson,253,90,0,0,0,2,0,0,0,0,0,4,0,16,30.0,0.0,0.0,3.0,1,0.00,0.00,0.00,1.19,2,False,124,Crystal Palace,GK,50,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Walter Benítez,254,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,GK,40,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Remi Matthews,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,GK,39,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Daniel Muñoz Mejía,256,90,0,0,0,2,0,0,0,0,0,0,0,0,10.8,1.1,2.0,1.4,1,0.00,0.01,0.01,1.19,1,False,124,Crystal Palace,DEF,60,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Maxence Lacroix,257,90,0,0,0,2,0,0,0,0,0,0,0,10,22.8,0.6,4.0,2.7,1,0.08,0.00,0.08,1.19,3,False,124,Crystal Palace,DEF,51,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Tyrick Mitchell,258,84,0,0,0,2,0,0,0,0,0,0,0,-2,5.2,1.1,2.0,0.8,1,0.00,0.00,0.00,1.19,1,False,124,Crystal Palace,DEF,50,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Borna Sosa,259,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,DEF,48,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Marc Guéhi,260,90,0,0,0,2,0,0,0,1,0,0,0,3,10.4,15.6,2.0,2.8,1,0.00,0.05,0.05,1.19,0,False,124,Crystal Palace,DEF,51,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Chris Richards,261,90,0,0,0,2,0,0,0,0,0,0,0,2,17.8,11.3,12.0,4.1,1,0.04,0.03,0.07,1.19,1,False,124,Crystal Palace,DEF,46,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Chadi Riad Dnanou,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,DEF,40,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Nathaniel Clyne,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,DEF,38,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Rob Holding,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,DEF,40,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Caleb Kporha,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,DEF,40,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Eberechi Eze,266,71,0,0,0,1,0,0,0,0,0,0,0,14,6.6,12.4,0.0,1.9,1,0.00,0.03,0.03,0.62,2,False,123,Arsenal,MID,78,Arsenal,Chelsea,1,1,False,Chelsea,13
+Ismaïla Sarr,267,37,0,0,0,0,0,0,0,0,0,0,0,2,1.2,10.8,4.0,1.6,1,0.00,0.04,0.04,0.86,1,False,124,Crystal Palace,MID,67,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Cheick Doucouré,268,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,49,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Romain Esse,269,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,47,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Will Hughes,270,12,0,0,0,0,0,0,0,0,0,0,0,4,0.2,1.2,2.0,0.3,0,0.00,0.01,0.01,0.09,1,False,124,Crystal Palace,MID,47,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Daichi Kamada,271,84,0,0,0,2,0,0,0,0,0,0,0,13,15.0,1.3,17.0,3.3,1,0.13,0.01,0.14,1.19,4,False,124,Crystal Palace,MID,50,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Jefferson Lerma Solís,272,5,0,0,0,0,0,0,0,1,0,0,0,-1,0.0,1.2,0.0,0.0,0,0.00,0.01,0.01,0.00,0,False,124,Crystal Palace,MID,49,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Adam Wharton,273,77,0,0,0,2,0,0,0,0,0,0,0,19,16.0,15.8,17.0,4.9,1,0.13,0.04,0.17,1.10,4,False,124,Crystal Palace,MID,50,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Asher Agbinone,274,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,44,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Naouirou Ahamada,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,44,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Justin Devenny,276,5,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.3,2.0,0.2,0,0.06,0.00,0.06,0.00,1,False,124,Crystal Palace,MID,43,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Malcolm Ebiowei,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,45,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Jesurun Rak-Sakyi,278,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,44,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Matheus França de Oliveira,279,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,45,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+David Ozoh,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,45,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Kaden Rodney,281,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,45,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Franco Umeh-Chibueze,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,45,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Jean-Philippe Mateta,283,90,1,0,0,2,0,0,0,0,0,0,0,17,35.0,2.3,30.0,6.7,1,1.02,0.01,1.03,1.19,6,False,124,Crystal Palace,FWD,81,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Eddie Nketiah,284,52,0,0,0,2,0,0,0,1,0,0,0,2,4.0,10.8,18.0,3.3,0,0.20,0.00,0.20,0.33,0,False,124,Crystal Palace,FWD,54,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Odsonne Édouard,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,FWD,50,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Zach Marsh,286,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,FWD,45,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Jordan Pickford,287,90,0,0,0,4,0,0,0,0,0,3,0,-2,20.4,0.0,0.0,2.0,1,0.00,0.00,0.00,1.91,1,False,125,Everton,GK,55,Newcastle,Everton,4,1,True,Newcastle,13
+Mark Travers,288,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,GK,44,Newcastle,Everton,4,1,True,Newcastle,13
+Harry Tyrer,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,GK,39,Newcastle,Everton,4,1,True,Newcastle,13
+Jarrad Branthwaite,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,DEF,53,Newcastle,Everton,4,1,True,Newcastle,13
+James Tarkowski,291,90,0,1,0,4,0,0,0,0,0,0,0,25,39.6,23.2,6.0,6.9,1,0.00,0.16,0.16,1.91,3,False,125,Everton,DEF,54,Newcastle,Everton,4,1,True,Newcastle,13
+Vitalii Mykolenko,292,90,0,0,0,4,0,0,0,0,0,0,0,3,22.4,8.7,0.0,3.1,1,0.00,0.14,0.14,1.91,2,False,125,Everton,DEF,49,Newcastle,Everton,4,1,True,Newcastle,13
+Jake O'Brien,293,90,0,0,0,4,0,0,0,0,0,0,0,-5,14.6,2.8,8.0,2.5,1,0.00,0.01,0.01,1.91,0,False,125,Everton,DEF,49,Newcastle,Everton,4,1,True,Newcastle,13
+Séamus Coleman,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,DEF,43,Newcastle,Everton,4,1,True,Newcastle,13
+Michael Keane,295,90,0,0,0,4,0,0,0,0,0,0,0,5,29.0,1.4,2.0,3.2,1,0.04,0.01,0.05,1.91,2,False,125,Everton,DEF,46,Newcastle,Everton,4,1,True,Newcastle,13
+Nathan Patterson,296,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,DEF,44,Newcastle,Everton,4,1,True,Newcastle,13
+Roman Dixon,297,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,DEF,39,Newcastle,Everton,4,1,True,Newcastle,13
+Reece Welch,298,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,DEF,39,Newcastle,Everton,4,1,True,Newcastle,13
+Iliman Ndiaye,299,79,0,0,0,4,0,0,0,0,0,0,0,19,16.2,19.1,9.0,4.4,1,0.02,0.07,0.09,1.91,2,False,125,Everton,MID,66,Newcastle,Everton,4,1,True,Newcastle,13
+Dwight McNeil,300,10,0,0,0,0,0,0,0,0,0,0,0,3,1.2,4.6,0.0,0.6,0,0.00,0.02,0.02,0.00,1,False,125,Everton,MID,55,Newcastle,Everton,4,1,True,Newcastle,13
+Carlos Alcaraz Durán,301,45,0,0,0,1,0,0,0,0,0,0,0,1,2.8,4.7,8.0,1.6,0,0.09,0.01,0.10,0.79,1,False,125,Everton,MID,52,Newcastle,Everton,4,1,True,Newcastle,13
+Idrissa Gana Gueye,302,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,MID,54,Newcastle,Everton,4,1,True,Newcastle,13
+James Garner,303,90,0,0,0,4,0,0,0,0,0,0,0,16,10.2,10.2,4.0,2.4,1,0.02,0.06,0.08,1.91,2,False,125,Everton,MID,50,Newcastle,Everton,4,1,True,Newcastle,13
+Tim Iroegbunam,304,45,0,0,0,3,0,0,0,0,0,0,0,1,0.0,4.3,0.0,0.3,1,0.00,0.02,0.02,1.12,1,False,125,Everton,MID,49,Newcastle,Everton,4,1,True,Newcastle,13
+Harrison Armstrong,305,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,MID,45,Newcastle,Everton,4,1,True,Newcastle,13
+Callum Bates,306,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,MID,44,Newcastle,Everton,4,1,True,Newcastle,13
+Coby Ebere,307,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,MID,44,Newcastle,Everton,4,1,True,Newcastle,13
+Isaac Heath,308,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,MID,45,Newcastle,Everton,4,1,True,Newcastle,13
+Jenson Metcalfe,309,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,MID,45,Newcastle,Everton,4,1,True,Newcastle,13
+Thierno Barry,310,86,0,0,0,4,0,0,0,0,0,0,0,3,0.0,13.3,24.0,3.4,1,0.29,0.03,0.32,1.91,2,False,125,Everton,FWD,57,Newcastle,Everton,4,1,True,Newcastle,13
+Norberto Bercique Gomes Betuncal,311,3,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.3,2.0,0.1,0,0.00,0.00,0.00,0.00,1,False,125,Everton,FWD,51,Newcastle,Everton,4,1,True,Newcastle,13
+Youssef Ramalho Chermiti,312,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,FWD,49,Newcastle,Everton,4,1,True,Newcastle,13
+Martin Sherif,313,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,FWD,44,Newcastle,Everton,4,1,True,Newcastle,13
+Bernd Leno,314,90,0,0,0,1,0,0,0,1,0,0,0,2,2.8,0.0,0.0,0.3,1,0.00,0.00,0.00,0.86,1,False,129,Fulham,GK,50,Fulham,Tottenham,2,1,False,Tottenham,13
+Steven Benda,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,GK,40,Fulham,Tottenham,2,1,False,Tottenham,13
+Antonee Robinson,316,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,DEF,49,Fulham,Tottenham,2,1,False,Tottenham,13
+Joachim Andersen,317,90,0,0,0,1,0,0,0,0,0,0,0,18,33.0,0.4,2.0,3.5,1,0.00,0.00,0.00,0.86,4,False,129,Fulham,DEF,45,Fulham,Tottenham,2,1,False,Tottenham,13
+Calvin Bassey,318,90,0,0,0,1,0,0,0,0,0,0,0,8,18.6,0.0,0.0,1.9,1,0.00,0.00,0.00,0.86,4,False,129,Fulham,DEF,45,Fulham,Tottenham,2,1,False,Tottenham,13
+Timothy Castagne,319,3,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,1,False,129,Fulham,DEF,43,Fulham,Tottenham,2,1,False,Tottenham,13
+Issa Diop,320,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,DEF,43,Fulham,Tottenham,2,1,False,Tottenham,13
+Jorge Cuenca Barreno,321,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,DEF,43,Fulham,Tottenham,2,1,False,Tottenham,13
+Kenny Tete,322,90,1,0,0,1,0,0,0,0,0,0,2,30,66.6,0.6,11.0,7.8,1,0.06,0.00,0.06,0.86,12,True,129,Fulham,DEF,45,Fulham,Tottenham,2,1,False,Tottenham,13
+Samuel Amissah,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,DEF,39,Fulham,Tottenham,2,1,False,Tottenham,13
+Alex Iwobi,324,86,0,0,0,1,0,0,0,0,0,0,0,14,11.8,1.2,0.0,1.3,1,0.00,0.01,0.01,0.86,2,False,129,Fulham,MID,64,Fulham,Tottenham,2,1,False,Tottenham,13
+Emile Smith Rowe,325,22,0,0,0,0,0,0,0,0,0,0,0,8,6.4,0.5,7.0,1.4,0,0.09,0.01,0.10,0.36,1,False,129,Fulham,MID,56,Fulham,Tottenham,2,1,False,Tottenham,13
+Adama Traoré Diarra,326,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,MID,52,Fulham,Tottenham,2,1,False,Tottenham,13
+Andreas Hoelgebaum Pereira,327,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,MID,53,Fulham,Tottenham,2,1,False,Tottenham,13
+Ryan Sessegnon,328,90,0,0,0,1,0,0,0,0,0,0,0,15,28.0,0.9,2.0,3.1,1,0.00,0.06,0.06,0.86,4,False,129,Fulham,MID,54,Fulham,Tottenham,2,1,False,Tottenham,13
+Harry Wilson,329,67,1,0,0,1,0,0,0,0,0,0,3,32,41.2,4.8,12.0,5.8,1,0.15,0.03,0.18,0.50,10,False,129,Fulham,MID,52,Fulham,Tottenham,2,1,False,Tottenham,13
+Sander Berge,330,90,0,0,0,1,0,0,0,0,0,0,0,9,8.8,1.4,0.0,1.0,1,0.00,0.00,0.00,0.86,2,False,129,Fulham,MID,49,Fulham,Tottenham,2,1,False,Tottenham,13
+Tom Cairney,331,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,MID,48,Fulham,Tottenham,2,1,False,Tottenham,13
+Saša Lukić,332,22,0,0,0,0,0,0,0,0,0,0,0,8,15.2,10.1,0.0,2.5,0,0.00,0.00,0.00,0.36,1,False,129,Fulham,MID,50,Fulham,Tottenham,2,1,False,Tottenham,13
+Martial Godo,333,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,MID,45,Fulham,Tottenham,2,1,False,Tottenham,13
+Luke Harris,334,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,MID,45,Fulham,Tottenham,2,1,False,Tottenham,13
+Josh King,335,67,0,1,0,1,0,0,0,0,0,0,0,17,19.8,11.6,2.0,3.3,1,0.00,0.00,0.00,0.50,5,False,129,Fulham,MID,45,Fulham,Tottenham,2,1,False,Tottenham,13
+Harrison Reed,336,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,MID,43,Fulham,Tottenham,2,1,False,Tottenham,13
+Raúl Jiménez Rodríguez,337,90,0,0,0,1,0,0,0,1,0,0,0,10,9.4,2.3,0.0,1.2,1,0.00,0.01,0.01,0.86,1,False,129,Fulham,FWD,62,Fulham,Tottenham,2,1,False,Tottenham,13
+Rodrigo Muniz Carvalho,338,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,FWD,54,Fulham,Tottenham,2,1,False,Tottenham,13
+Illan Meslier,339,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,GK,42,Leeds United,Manchester City,2,3,False,Manchester City,13
+Alex Cairns,340,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,GK,39,Leeds United,Manchester City,2,3,False,Manchester City,13
+Karl Darlow,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,GK,40,Leeds United,Manchester City,2,3,False,Manchester City,13
+Jayden Bogle,342,90,0,0,0,3,0,0,0,0,0,0,0,0,7.2,8.0,0.0,1.5,1,0.00,0.01,0.01,3.10,1,False,126,Leeds United,DEF,45,Leeds United,Manchester City,2,3,False,Manchester City,13
+Pascal Struijk,343,90,0,0,0,3,0,0,0,0,0,0,0,1,21.2,0.2,9.0,3.0,1,0.11,0.00,0.11,3.10,3,False,126,Leeds United,DEF,43,Leeds United,Manchester City,2,3,False,Manchester City,13
+Jaka Bijol,344,45,0,0,0,1,0,0,0,0,0,0,0,-2,4.2,0.0,8.0,1.2,0,0.12,0.00,0.12,0.43,1,False,126,Leeds United,DEF,39,Leeds United,Manchester City,2,3,False,Manchester City,13
+Sebastiaan Bornauw,345,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,DEF,39,Leeds United,Manchester City,2,3,False,Manchester City,13
+Sam Byram,346,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,DEF,39,Leeds United,Manchester City,2,3,False,Manchester City,13
+Gabriel Gudmundsson,347,21,0,0,0,1,0,0,0,0,0,0,0,5,6.2,0.5,6.0,1.3,0,0.01,0.01,0.02,0.36,1,False,126,Leeds United,DEF,40,Leeds United,Manchester City,2,3,False,Manchester City,13
+Joe Rodon,348,90,0,0,0,3,0,0,0,1,0,0,0,3,22.0,0.7,2.0,2.5,1,0.00,0.01,0.01,3.10,0,False,126,Leeds United,DEF,41,Leeds United,Manchester City,2,3,False,Manchester City,13
+Isaac Schmidt,349,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,DEF,40,Leeds United,Manchester City,2,3,False,Manchester City,13
+Brenden Aaronson,350,1,0,0,0,0,0,0,0,0,0,0,0,5,4.2,0.1,0.0,0.4,0,0.00,0.00,0.00,0.00,1,False,126,Leeds United,MID,54,Leeds United,Manchester City,2,3,False,Manchester City,13
+Wilfried Gnonto,351,45,0,0,0,2,0,0,0,0,0,0,0,9,6.8,11.3,0.0,1.8,1,0.00,0.03,0.03,2.67,1,False,126,Leeds United,MID,52,Leeds United,Manchester City,2,3,False,Manchester City,13
+Jack Harrison,352,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,MID,51,Leeds United,Manchester City,2,3,False,Manchester City,13
+Daniel James,353,45,0,0,0,2,0,0,0,0,0,0,0,5,5.0,0.5,2.0,0.8,1,0.00,0.02,0.02,2.67,1,False,126,Leeds United,MID,53,Leeds United,Manchester City,2,3,False,Manchester City,13
+Ethan Ampadu,354,90,0,0,0,3,0,0,0,0,0,0,0,14,8.4,3.3,4.0,1.6,1,0.15,0.02,0.17,3.10,2,False,126,Leeds United,MID,49,Leeds United,Manchester City,2,3,False,Manchester City,13
+Sam Greenwood,355,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,MID,49,Leeds United,Manchester City,2,3,False,Manchester City,13
+Ilia Gruev,356,90,0,0,0,3,0,0,0,0,0,0,0,15,15.8,31.2,0.0,4.7,1,0.00,0.21,0.21,3.10,2,False,126,Leeds United,MID,48,Leeds United,Manchester City,2,3,False,Manchester City,13
+Largie Ramazani,357,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,MID,49,Leeds United,Manchester City,2,3,False,Manchester City,13
+Tanaka Ao,358,90,0,0,0,3,0,0,0,0,0,0,0,13,13.4,5.4,4.0,2.3,1,0.00,0.26,0.26,3.10,4,False,126,Leeds United,MID,48,Leeds United,Manchester City,2,3,False,Manchester City,13
+Charlie Crew,359,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,MID,45,Leeds United,Manchester City,2,3,False,Manchester City,13
+Joe Gelhardt,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,MID,45,Leeds United,Manchester City,2,3,False,Manchester City,13
+Darko Gyabi,361,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,MID,45,Leeds United,Manchester City,2,3,False,Manchester City,13
+Joël Piroe,362,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,FWD,50,Leeds United,Manchester City,2,3,False,Manchester City,13
+Patrick Bamford,363,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,FWD,49,Leeds United,Manchester City,2,3,False,Manchester City,13
+Mateo Joseph Fernández-Regatillo,364,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,FWD,50,Leeds United,Manchester City,2,3,False,Manchester City,13
+Lukas Nmecha,365,81,1,0,0,2,0,0,1,0,0,0,0,22,35.2,0.4,54.0,9.0,1,1.01,0.00,1.01,2.73,4,False,126,Leeds United,FWD,50,Leeds United,Manchester City,2,3,False,Manchester City,13
+Alisson Becker,366,90,0,0,1,0,0,0,0,0,0,0,0,20,4.4,0.0,0.0,0.4,1,0.00,0.00,0.00,0.29,6,False,130,Liverpool,GK,54,Liverpool,West Ham,2,0,False,West Ham,13
+Giorgi Mamardashvili,367,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,GK,43,Liverpool,West Ham,2,0,False,West Ham,13
+Ármin Pécsi,368,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,GK,39,Liverpool,West Ham,2,0,False,West Ham,13
+Freddie Woodman,369,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,GK,39,Liverpool,West Ham,2,0,False,West Ham,13
+Jeremie Frimpong,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,DEF,57,Liverpool,West Ham,2,0,False,West Ham,13
+Milos Kerkez,371,84,0,0,1,0,0,0,0,0,0,0,0,24,13.4,12.2,2.0,2.8,1,0.00,0.01,0.01,0.15,6,False,130,Liverpool,DEF,57,Liverpool,West Ham,2,0,False,West Ham,13
+Andrew Robertson,372,5,0,0,0,0,0,0,0,0,0,0,0,3,2.8,0.2,2.0,0.5,0,0.00,0.00,0.00,0.15,1,False,130,Liverpool,DEF,58,Liverpool,West Ham,2,0,False,West Ham,13
+Virgil van Dijk,373,90,0,0,1,0,0,0,0,0,0,0,0,28,19.4,0.8,4.0,2.4,1,0.04,0.01,0.05,0.29,6,False,130,Liverpool,DEF,60,Liverpool,West Ham,2,0,False,West Ham,13
+Ibrahima Konaté,374,90,0,0,1,0,0,0,0,0,0,0,0,27,30.4,1.1,0.0,3.2,1,0.00,0.01,0.01,0.29,8,False,130,Liverpool,DEF,54,Liverpool,West Ham,2,0,False,West Ham,13
+Conor Bradley,375,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,DEF,50,Liverpool,West Ham,2,0,False,West Ham,13
+Joe Gomez,376,90,0,1,1,0,0,0,0,0,0,0,2,39,31.0,16.6,6.0,5.4,1,0.00,0.31,0.31,0.29,11,True,130,Liverpool,DEF,49,Liverpool,West Ham,2,0,False,West Ham,13
+Konstantinos Tsimikas,377,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,DEF,48,Liverpool,West Ham,2,0,False,West Ham,13
+Amara Nallo,378,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,DEF,38,Liverpool,West Ham,2,0,False,West Ham,13
+Rhys Williams,379,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,DEF,38,Liverpool,West Ham,2,0,False,West Ham,13
+Calvin Ramsay,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,DEF,38,Liverpool,West Ham,2,0,False,West Ham,13
+Mohamed Salah,381,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,141,Liverpool,West Ham,2,0,False,West Ham,13
+Florian Wirtz,382,74,0,0,1,0,0,0,0,0,0,0,0,14,8.8,21.6,19.0,4.9,1,0.06,0.14,0.20,0.15,3,False,130,Liverpool,MID,80,Liverpool,West Ham,2,0,False,West Ham,13
+Luis Díaz Marulanda,383,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,80,Liverpool,West Ham,2,0,False,West Ham,13
+Cody Gakpo,384,90,1,1,1,0,0,0,0,0,0,0,3,41,54.2,33.9,30.0,11.8,1,0.36,0.50,0.86,0.29,14,True,130,Liverpool,MID,75,Liverpool,West Ham,2,0,False,West Ham,13
+Federico Chiesa,385,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,64,Liverpool,West Ham,2,0,False,West Ham,13
+Alexis Mac Allister,386,90,0,0,1,0,0,0,0,0,0,0,0,15,19.8,2.3,7.0,2.9,1,0.02,0.03,0.05,0.29,3,False,130,Liverpool,MID,63,Liverpool,West Ham,2,0,False,West Ham,13
+Dominik Szoboszlai,387,90,0,0,1,0,0,0,0,0,0,0,0,15,5.2,19.1,0.0,2.4,1,0.00,0.07,0.07,0.29,3,False,130,Liverpool,MID,66,Liverpool,West Ham,2,0,False,West Ham,13
+Curtis Jones,388,15,0,0,0,0,0,0,0,0,0,0,0,5,4.6,10.8,0.0,1.5,0,0.00,0.01,0.01,0.15,1,False,130,Liverpool,MID,54,Liverpool,West Ham,2,0,False,West Ham,13
+Harvey Elliott,389,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,53,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Ryan Gravenberch,390,90,0,0,1,0,0,0,0,0,0,0,0,14,10.0,4.2,0.0,1.4,1,0.00,0.03,0.03,0.29,3,False,130,Liverpool,MID,56,Liverpool,West Ham,2,0,False,West Ham,13
+Ben Gannon-Doak,391,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,49,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Endo Wataru,392,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,49,Liverpool,West Ham,2,0,False,West Ham,13
+Stefan Bajčetić Maquieira,393,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,43,Liverpool,West Ham,2,0,False,West Ham,13
+James McConnell,394,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,44,Liverpool,West Ham,2,0,False,West Ham,13
+Tyler Morton,395,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,45,Liverpool,West Ham,2,0,False,West Ham,13
+Trey Nyoni,396,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,43,Liverpool,West Ham,2,0,False,West Ham,13
+Darwin Núñez Ribeiro,397,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,FWD,65,Liverpool,West Ham,2,0,False,West Ham,13
+Jayden Danns,398,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,FWD,43,Liverpool,West Ham,2,0,False,West Ham,13
+Ederson Santana de Moraes,399,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,GK,53,Leeds United,Manchester City,2,3,True,Leeds United,13
+Stefan Ortega Moreno,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,GK,48,Leeds United,Manchester City,2,3,True,Leeds United,13
+Marcus Bettinelli,401,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,GK,40,Leeds United,Manchester City,2,3,True,Leeds United,13
+Rayan Aït-Nouri,402,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,DEF,57,Leeds United,Manchester City,2,3,True,Leeds United,13
+Joško Gvardiol,403,90,1,0,0,2,0,0,0,1,0,0,0,13,40.2,14.3,48.0,10.3,1,0.77,0.17,0.94,1.54,6,False,126,Manchester City,DEF,58,Leeds United,Manchester City,2,3,True,Leeds United,13
+Manuel Akanji,404,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,DEF,54,Leeds United,Manchester City,2,3,True,Leeds United,13
+Nathan Aké,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,DEF,53,Leeds United,Manchester City,2,3,True,Leeds United,13
+Abdukodir Khusanov,406,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,DEF,54,Leeds United,Manchester City,2,3,True,Leeds United,13
+Matheus Nunes,407,90,0,1,0,2,0,0,0,1,0,0,0,7,23.4,16.3,4.0,4.4,1,0.00,0.27,0.27,1.54,3,False,126,Manchester City,DEF,53,Leeds United,Manchester City,2,3,True,Leeds United,13
+Rúben dos Santos Gato Alves Dias,408,90,0,0,0,2,0,0,0,0,0,0,0,2,8.6,3.8,1.0,1.3,1,0.03,0.02,0.05,1.54,1,False,126,Manchester City,DEF,56,Leeds United,Manchester City,2,3,True,Leeds United,13
+John Stones,409,1,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,1,False,126,Manchester City,DEF,54,Leeds United,Manchester City,2,3,True,Leeds United,13
+Rico Lewis,410,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,DEF,48,Leeds United,Manchester City,2,3,True,Leeds United,13
+Nico O'Reilly,411,90,0,1,0,2,0,0,0,0,0,0,0,20,43.4,33.9,76.0,15.3,1,0.89,0.21,1.10,1.54,4,False,126,Manchester City,DEF,51,Leeds United,Manchester City,2,3,True,Leeds United,13
+Vitor de Oliveira Nunes dos Reis,412,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,DEF,50,Leeds United,Manchester City,2,3,True,Leeds United,13
+Omar Marmoush,413,1,0,0,0,0,0,0,0,0,0,0,0,0,3.0,0.0,17.0,2.0,0,0.13,0.00,0.13,0.12,1,False,126,Manchester City,MID,83,Leeds United,Manchester City,2,3,True,Leeds United,13
+Phil Foden,414,90,2,0,0,2,0,0,0,0,0,0,3,51,76.6,33.6,56.0,16.6,1,0.70,0.22,0.92,1.54,15,True,126,Manchester City,MID,81,Leeds United,Manchester City,2,3,True,Leeds United,13
+Sávio Moreira de Oliveira,415,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,69,Leeds United,Manchester City,2,3,True,Leeds United,13
+Bernardo Mota Veiga de Carvalho e Silva,416,88,0,0,0,2,0,0,0,1,0,0,0,5,3.6,20.8,7.0,3.1,1,0.07,0.13,0.20,1.42,1,False,126,Manchester City,MID,63,Leeds United,Manchester City,2,3,True,Leeds United,13
+Rayan Cherki,417,15,0,1,0,0,0,0,0,0,0,0,0,13,19.6,12.3,4.0,3.6,0,0.00,0.10,0.10,0.13,4,False,126,Manchester City,MID,64,Leeds United,Manchester City,2,3,True,Leeds United,13
+Jérémy Doku,418,90,0,0,0,2,0,0,0,0,0,0,0,20,21.4,59.8,18.0,9.9,1,0.00,0.68,0.68,1.54,2,False,126,Manchester City,MID,66,Leeds United,Manchester City,2,3,True,Leeds United,13
+Jack Grealish,419,79,0,0,0,4,0,0,0,0,0,0,0,11,9.0,25.5,8.0,4.3,1,0.00,0.41,0.41,1.91,2,False,125,Everton,MID,66,Newcastle,Everton,4,1,True,Newcastle,13
+İlkay Gündoğan,420,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,63,Leeds United,Manchester City,2,3,True,Leeds United,13
+Rodrigo 'Rodri' Hernandez Cascante,421,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,63,Leeds United,Manchester City,2,3,True,Leeds United,13
+Mateo Kovačić,422,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,59,Leeds United,Manchester City,2,3,True,Leeds United,13
+Nico González Iglesias,423,90,0,0,0,2,0,0,0,0,0,0,0,19,14.4,7.1,14.0,3.6,1,0.15,0.05,0.20,1.54,4,False,126,Manchester City,MID,59,Leeds United,Manchester City,2,3,True,Leeds United,13
+Oscar Bobb,424,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,53,Leeds United,Manchester City,2,3,True,Leeds United,13
+Claudio Echeverri,425,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,54,Leeds United,Manchester City,2,3,True,Leeds United,13
+James McAtee,426,5,0,0,0,1,0,0,0,0,0,0,0,3,0.2,1.7,2.0,0.4,0,0.00,0.00,0.00,0.09,1,False,127,Nottingham,MID,51,Brighton,Nottingham,2,0,True,Brighton,13
+Tijjani Reijnders,427,74,0,0,0,2,0,0,0,0,0,0,1,26,10.4,20.0,13.0,4.3,1,0.22,0.26,0.48,1.41,3,False,126,Manchester City,MID,53,Leeds United,Manchester City,2,3,True,Leeds United,13
+Sverre Nypan,428,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,50,Leeds United,Manchester City,2,3,True,Leeds United,13
+Kalvin Phillips,429,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,48,Leeds United,Manchester City,2,3,True,Leeds United,13
+Erling Haaland,430,90,0,0,0,2,0,0,0,0,0,0,0,9,16.6,10.6,31.0,5.8,1,0.13,0.01,0.14,1.54,2,False,126,Manchester City,FWD,149,Leeds United,Manchester City,2,3,True,Leeds United,13
+Altay Bayındır,431,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,GK,48,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+André Onana,432,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,GK,49,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Elyh Harrison,433,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,GK,40,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Tom Heaton,434,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,GK,39,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Dermot Mee,435,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,GK,39,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Matthijs de Ligt,436,90,0,0,0,1,0,0,0,0,0,0,0,6,10.8,0.4,11.0,2.2,1,0.06,0.00,0.06,1.83,2,False,124,Manchester United,DEF,50,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Lisandro Martínez,437,8,0,0,0,0,0,0,0,0,0,0,0,3,2.0,0.0,0.0,0.2,0,0.00,0.00,0.00,0.11,1,False,124,Manchester United,DEF,48,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Noussair Mazraoui,438,36,0,0,0,0,0,0,0,0,0,0,0,8,16.2,10.3,0.0,2.7,0,0.00,0.00,0.00,0.24,1,False,124,Manchester United,DEF,49,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Diego León Blanco,439,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,DEF,42,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Diogo Dalot Teixeira,440,90,0,0,0,1,0,0,0,0,0,0,0,8,5.4,2.9,9.0,1.7,1,0.07,0.02,0.09,1.83,2,False,124,Manchester United,DEF,44,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Patrick Dorgu,441,1,0,0,0,0,0,0,0,0,0,0,0,4,0.0,0.3,0.0,0.0,0,0.00,0.00,0.00,0.11,1,False,124,Manchester United,DEF,42,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Harry Maguire,442,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,DEF,44,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Luke Shaw,443,81,0,0,0,1,0,0,0,1,0,0,0,6,16.8,2.0,0.0,1.9,1,0.00,0.01,0.01,1.72,1,False,124,Manchester United,DEF,45,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Leny Yoro,444,53,0,0,0,1,0,0,0,0,0,0,0,-4,5.0,0.8,2.0,0.8,1,0.00,0.00,0.00,1.59,1,False,124,Manchester United,DEF,43,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Harry Amass,445,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,DEF,40,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Tyler Fredricson,446,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,DEF,38,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Ayden Heaven,447,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,DEF,38,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Tyrell Malacia,448,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,DEF,38,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Bruno Borges Fernandes,449,90,0,2,0,1,0,0,0,0,0,0,3,37,64.0,52.2,1.0,11.7,1,0.01,0.43,0.44,1.83,11,False,124,Manchester United,MID,89,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Matheus Santos Carneiro da Cunha,450,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,79,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Marcus Rashford,451,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,70,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Amad Diallo,452,90,0,0,0,1,0,0,0,0,0,0,0,7,6.6,24.2,3.0,3.4,1,0.03,0.04,0.07,1.72,2,False,124,Manchester United,MID,63,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Alejandro Garnacho Ferreyra,453,45,0,0,0,1,0,0,0,0,0,0,0,4,0.6,1.7,0.0,0.2,0,0.00,0.02,0.02,1.01,1,False,123,Chelsea,MID,64,Arsenal,Chelsea,1,1,True,Arsenal,13
+Antony dos Santos,454,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,59,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Mason Mount,455,90,1,0,0,1,0,0,0,0,0,0,1,31,41.2,16.3,13.0,7.1,1,0.09,0.01,0.10,1.83,8,False,124,Manchester United,MID,59,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Jadon Sancho,456,2,0,0,0,0,0,0,0,0,0,0,0,2,3.2,10.3,2.0,1.6,0,0.00,0.00,0.00,0.20,1,False,121,Aston Villa,MID,58,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Carlos Henrique Casimiro,457,90,0,0,0,1,0,0,0,0,0,0,0,15,20.0,2.2,46.0,6.8,1,0.65,0.02,0.67,1.83,4,False,124,Manchester United,MID,55,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Kobbie Mainoo,458,1,0,0,0,0,0,0,0,0,0,0,0,3,2.0,0.0,0.0,0.2,0,0.00,0.00,0.00,0.11,1,False,124,Manchester United,MID,47,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Manuel Ugarte Ribeiro,459,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,47,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Toby Collyer,460,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,45,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Jayce Fitzgerald,461,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,44,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Jack Fletcher,462,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,43,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Sékou Koné,463,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,43,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Jack Moorhouse,464,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,45,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Rasmus Højlund,465,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,FWD,63,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Joshua Zirkzee,466,90,1,0,0,1,0,0,0,0,0,0,3,37,43.4,18.5,19.0,8.1,1,0.03,0.01,0.04,1.83,9,False,124,Manchester United,FWD,58,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Chido Obi,467,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,FWD,43,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Ethan Wheatley,468,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,FWD,45,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Nick Pope,469,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,GK,52,Newcastle,Everton,4,1,False,Everton,13
+Martin Dúbravka,470,90,0,0,0,3,0,0,0,0,0,1,0,0,7.2,0.0,0.0,0.7,1,0.00,0.01,0.01,3.06,1,False,122,Burnley,GK,40,Burnley,Brentford,1,3,False,Brentford,13
+Mark Gillespie,471,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,GK,39,Newcastle,Everton,4,1,False,Everton,13
+Odysseas Vlachodimos,472,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,GK,40,Newcastle,Everton,4,1,False,Everton,13
+Lewis Hall,473,89,0,1,0,1,0,0,0,0,0,0,0,30,39.4,34.7,6.0,8.0,1,0.04,0.49,0.53,0.94,5,False,125,Newcastle,DEF,52,Newcastle,Everton,4,1,False,Everton,13
+Fabian Schär,474,1,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.0,0.0,0.0,0,0.00,0.00,0.00,0.05,1,False,125,Newcastle,DEF,53,Newcastle,Everton,4,1,False,Everton,13
+Sven Botman,475,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,DEF,49,Newcastle,Everton,4,1,False,Everton,13
+Dan Burn,476,90,0,1,0,1,0,0,0,0,0,0,0,23,43.8,20.8,9.0,7.4,1,0.07,0.01,0.08,0.99,5,False,125,Newcastle,DEF,51,Newcastle,Everton,4,1,False,Everton,13
+Tino Livramento,477,90,0,0,0,1,0,0,0,0,0,0,0,16,21.2,14.5,8.0,4.4,1,0.09,0.04,0.13,0.99,2,False,125,Newcastle,DEF,49,Newcastle,Everton,4,1,False,Everton,13
+Kieran Trippier,478,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,DEF,50,Newcastle,Everton,4,1,False,Everton,13
+Emil Krafth,479,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,DEF,43,Newcastle,Everton,4,1,False,Everton,13
+Jamaal Lascelles,480,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,DEF,43,Newcastle,Everton,4,1,False,Everton,13
+Alex Murphy,481,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,DEF,38,Newcastle,Everton,4,1,False,Everton,13
+Harrison Ashby,482,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,DEF,39,Newcastle,Everton,4,1,False,Everton,13
+Miodrag Pivaš,483,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,DEF,38,Newcastle,Everton,4,1,False,Everton,13
+Matt Targett,484,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,DEF,40,Newcastle,Everton,4,1,False,Everton,13
+Anthony Gordon,485,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.3,0.0,0.0,0,0.00,0.00,0.00,0.05,1,False,125,Newcastle,MID,72,Newcastle,Everton,4,1,False,Everton,13
+Anthony Elanga,486,70,0,1,0,1,0,0,0,0,0,0,0,22,25.8,14.0,9.0,4.9,1,0.07,0.03,0.10,0.84,5,False,125,Newcastle,MID,66,Newcastle,Everton,4,1,False,Everton,13
+Harvey Barnes,487,70,0,0,0,1,0,0,0,0,0,0,0,3,8.8,6.1,28.0,4.3,1,0.27,0.05,0.32,0.84,2,False,125,Newcastle,MID,64,Newcastle,Everton,4,1,False,Everton,13
+Bruno Guimarães Rodriguez Moura,488,89,0,0,0,1,0,0,0,0,0,0,0,20,19.2,9.9,0.0,2.9,1,0.00,0.07,0.07,0.94,4,False,125,Newcastle,MID,66,Newcastle,Everton,4,1,False,Everton,13
+Jacob Murphy,489,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,MID,61,Newcastle,Everton,4,1,False,Everton,13
+Joelinton Cássio Apolinário de Lira,490,90,0,0,0,1,0,0,0,0,0,0,0,15,5.6,6.5,2.0,1.4,1,0.03,0.02,0.05,0.99,2,False,125,Newcastle,MID,59,Newcastle,Everton,4,1,False,Everton,13
+Sandro Tonali,491,1,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.2,0.0,0.0,0,0.00,0.00,0.00,0.05,1,False,125,Newcastle,MID,54,Newcastle,Everton,4,1,False,Everton,13
+Antoñito Cordero Campillo,492,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,MID,49,Newcastle,Everton,4,1,False,Everton,13
+Sean Longstaff,493,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,MID,49,Leeds United,Manchester City,2,3,False,Manchester City,13
+Joe Willock,494,19,0,0,0,0,0,0,0,0,0,0,0,6,3.2,11.5,4.0,1.9,0,0.00,0.04,0.04,0.15,1,False,125,Newcastle,MID,50,Newcastle,Everton,4,1,False,Everton,13
+Isaac Hayden,495,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,MID,45,Newcastle,Everton,4,1,False,Everton,13
+Garang Kuol,496,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,MID,44,Newcastle,Everton,4,1,False,Everton,13
+Lewis Miley,497,90,1,1,0,1,0,0,0,0,0,0,3,57,66.0,37.3,19.0,12.2,1,0.13,0.52,0.65,0.99,15,True,125,Newcastle,MID,44,Newcastle,Everton,4,1,False,Everton,13
+Joe White,498,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,MID,45,Newcastle,Everton,4,1,False,Everton,13
+Alexander Isak,499,67,1,0,1,0,0,0,0,0,0,0,1,36,39.2,0.5,53.0,9.3,1,0.73,0.02,0.75,0.15,7,False,130,Liverpool,FWD,104,Liverpool,West Ham,2,0,False,West Ham,13
+William Osula,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,FWD,54,Newcastle,Everton,4,1,False,Everton,13
+Sean Neave,501,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,FWD,44,Newcastle,Everton,4,1,False,Everton,13
+Matz Sels,502,90,0,0,0,2,0,0,0,0,0,3,0,10,26.8,0.0,0.0,2.7,1,0.00,0.00,0.00,1.53,2,False,127,Nottingham,GK,47,Brighton,Nottingham,2,0,True,Brighton,13
+Carlos Miguel dos Santos Pereira,503,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,GK,40,Brighton,Nottingham,2,0,True,Brighton,13
+Matt Turner,504,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,GK,40,Brighton,Nottingham,2,0,True,Brighton,13
+Nikola Milenković,505,90,0,0,0,2,0,0,0,0,0,0,0,3,11.6,0.8,5.0,1.7,1,0.03,0.01,0.04,1.53,1,False,127,Nottingham,DEF,52,Brighton,Nottingham,2,0,True,Brighton,13
+Murillo Costa dos Santos,506,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,DEF,53,Brighton,Nottingham,2,0,True,Brighton,13
+Ola Aina,507,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,DEF,47,Brighton,Nottingham,2,0,True,Brighton,13
+Neco Williams,508,90,0,0,0,2,0,0,0,0,0,0,0,7,13.8,2.0,2.0,1.8,1,0.00,0.01,0.01,1.53,1,False,127,Nottingham,DEF,47,Brighton,Nottingham,2,0,True,Brighton,13
+David Mota Veiga Teixeira do Carmo,509,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,DEF,45,Brighton,Nottingham,2,0,True,Brighton,13
+Jair Paula da Cunha Filho,510,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,DEF,43,Brighton,Nottingham,2,0,True,Brighton,13
+Felipe Rodrigues da Silva,511,90,0,0,0,2,0,0,0,0,0,0,0,20,32.0,1.6,2.0,3.6,1,0.00,0.02,0.02,1.53,3,False,127,Nottingham,DEF,43,Brighton,Nottingham,2,0,True,Brighton,13
+Omar Richards,512,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,DEF,45,Brighton,Nottingham,2,0,True,Brighton,13
+Zach Abbott,513,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,DEF,39,Brighton,Nottingham,2,0,True,Brighton,13
+Willy Boly,514,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,DEF,39,Brighton,Nottingham,2,0,True,Brighton,13
+Morgan Gibbs-White,515,84,0,0,0,1,0,0,0,0,0,0,0,6,2.2,25.8,19.0,4.7,1,0.28,0.05,0.33,1.44,2,False,127,Nottingham,MID,73,Brighton,Nottingham,2,0,True,Brighton,13
+Callum Hudson-Odoi,516,45,0,0,0,1,0,0,0,0,0,0,0,4,7.0,3.0,5.0,1.5,0,0.01,0.04,0.05,0.41,1,False,127,Nottingham,MID,57,Brighton,Nottingham,2,0,True,Brighton,13
+Elliot Anderson,517,90,0,0,0,2,0,0,0,0,0,0,2,36,37.2,92.3,11.0,14.1,1,0.02,0.15,0.17,1.53,6,False,127,Nottingham,MID,53,Brighton,Nottingham,2,0,True,Brighton,13
+João Pedro Ferreira da Silva,518,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,MID,54,Brighton,Nottingham,2,0,True,Brighton,13
+Nicolás Domínguez,519,45,0,0,0,1,0,0,0,0,0,0,0,11,11.4,29.4,2.0,4.3,1,0.03,0.05,0.08,1.12,1,False,127,Nottingham,MID,50,Brighton,Nottingham,2,0,True,Brighton,13
+Lewis O'Brien,520,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,MID,50,Brighton,Nottingham,2,0,True,Brighton,13
+Ibrahim Sangaré,521,73,0,0,0,1,0,0,0,0,0,0,0,18,22.6,3.3,5.0,3.1,1,0.02,0.03,0.05,1.44,4,False,127,Nottingham,MID,49,Brighton,Nottingham,2,0,True,Brighton,13
+Ryan Yates,522,16,0,0,0,1,0,0,0,0,0,0,0,3,0.8,0.5,4.0,0.5,0,0.00,0.00,0.00,0.09,1,False,127,Nottingham,MID,47,Brighton,Nottingham,2,0,True,Brighton,13
+Eric da Silva Moreira,523,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,MID,45,Brighton,Nottingham,2,0,True,Brighton,13
+Marko Stamenić,524,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,MID,45,Brighton,Nottingham,2,0,True,Brighton,13
+Chris Wood,525,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,FWD,72,Brighton,Nottingham,2,0,True,Brighton,13
+Igor Jesus Maciel da Cruz,526,74,0,0,0,1,0,0,0,0,0,0,0,11,14.0,14.7,51.0,8.0,1,0.19,0.02,0.21,1.44,2,False,127,Nottingham,FWD,58,Brighton,Nottingham,2,0,True,Brighton,13
+Taiwo Awoniyi,527,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,FWD,52,Brighton,Nottingham,2,0,True,Brighton,13
+Anthony Patterson,528,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,GK,43,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Simon Moore,529,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,GK,39,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Blondy Nna Noukeu,530,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,GK,39,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Daniel Ballard,531,90,0,0,0,2,0,0,0,0,0,0,0,6,30.6,13.4,10.0,5.4,1,0.07,0.00,0.07,1.70,3,False,128,Sunderland,DEF,46,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Trai Hume,532,27,0,0,0,0,0,0,0,1,0,0,0,5,15.4,15.6,2.0,3.3,0,0.00,0.04,0.04,0.17,0,False,128,Sunderland,DEF,45,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Aji Alese,533,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,40,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Joe Anderson,534,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,39,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Dennis Cirkin,535,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,40,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Leo Fuhr Hjelde,536,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,40,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Niall Huggins,537,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,40,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Zak Johnson,538,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,39,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Luke O'Nien,539,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,40,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Timothée Pembélé,540,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,39,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Reinildo Mandava,541,90,0,1,0,2,0,0,0,0,0,0,0,8,12.8,1.7,6.0,2.1,1,0.03,0.01,0.04,1.70,4,False,128,Sunderland,DEF,40,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Jenson Seelt,542,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,40,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Simon Adingra,543,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,50,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Habib Diarra,544,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,53,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Patrick Roberts,545,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,54,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Milan Aleksić,546,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,49,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Enzo Le Fée,547,85,1,1,0,2,0,0,0,0,0,0,3,39,54.6,41.0,22.0,11.8,1,0.81,0.19,1.00,1.67,13,True,128,Sunderland,MID,49,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Romaine Mundle,548,27,0,0,0,0,0,0,0,1,0,0,0,1,1.4,4.4,2.0,0.8,0,0.00,0.21,0.21,0.17,0,False,128,Sunderland,MID,49,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Dan Neil,549,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,48,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Ian Poveda-Ocampo,550,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,48,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Chris Rigg,551,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,48,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Noah Sadiki,552,90,0,0,0,2,0,0,0,0,0,0,0,6,2.6,2.0,2.0,0.7,1,0.00,0.01,0.01,1.70,2,False,128,Sunderland,MID,50,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Chemsdine Talbi,553,62,0,0,0,2,0,0,0,0,0,0,0,4,0.0,1.7,19.0,1.6,1,0.14,0.02,0.16,1.53,2,False,128,Sunderland,MID,50,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Abdoullah Ba,554,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,43,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Alan Browne,555,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,45,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Pierre Ekwah Elimby,556,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,45,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Harrison Jones,557,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,44,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Jay Matete,558,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,44,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Nectarios Triantis,559,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,MID,44,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Wilson Isidor,560,62,0,0,0,2,0,0,0,0,0,0,0,6,2.0,5.5,21.0,2.9,1,0.03,0.00,0.03,1.53,2,False,128,Sunderland,FWD,56,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Eliezer Mayenda Dossou,561,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,FWD,53,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Ahmed Abdullahi,562,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,FWD,43,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Luís Hemir Silva Semedo,563,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,FWD,44,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Nazarii Rusyn,564,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,FWD,44,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Guglielmo Vicario,565,90,0,0,0,2,0,0,0,0,0,1,0,0,3.6,0.0,0.0,0.4,1,0.00,0.00,0.00,0.45,1,False,129,Tottenham,GK,50,Fulham,Tottenham,2,1,True,Fulham,13
+Brandon Austin,566,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,GK,39,Fulham,Tottenham,2,1,True,Fulham,13
+Antonín Kinský,567,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,GK,39,Fulham,Tottenham,2,1,True,Fulham,13
+Pedro Porro Sauceda,568,90,0,0,0,2,0,0,0,0,0,0,0,19,28.8,50.3,9.0,8.8,1,0.06,0.43,0.49,0.45,1,False,129,Tottenham,DEF,54,Fulham,Tottenham,2,1,True,Fulham,13
+Cristian Romero,569,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,DEF,50,Fulham,Tottenham,2,1,True,Fulham,13
+Kevin Danso,570,90,0,0,0,2,0,0,0,0,0,0,0,13,33.0,1.7,0.0,3.5,1,0.00,0.01,0.01,0.45,3,False,129,Tottenham,DEF,43,Fulham,Tottenham,2,1,True,Fulham,13
+Ben Davies,571,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,DEF,43,Fulham,Tottenham,2,1,True,Fulham,13
+Radu Drăgușin,572,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,DEF,45,Fulham,Tottenham,2,1,True,Fulham,13
+Djed Spence,573,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,DEF,44,Fulham,Tottenham,2,1,True,Fulham,13
+Destiny Udogie,574,84,0,0,0,2,0,0,0,1,0,0,0,1,14.8,23.3,7.0,4.5,1,0.08,0.04,0.12,0.45,0,False,129,Tottenham,DEF,44,Fulham,Tottenham,2,1,True,Fulham,13
+Micky van de Ven,575,90,0,0,0,2,0,0,0,1,0,0,0,0,17.0,1.3,3.0,2.1,1,0.05,0.01,0.06,0.45,0,False,129,Tottenham,DEF,48,Fulham,Tottenham,2,1,True,Fulham,13
+Ashley Phillips,576,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,DEF,40,Fulham,Tottenham,2,1,True,Fulham,13
+Takai Kōta,577,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,DEF,40,Fulham,Tottenham,2,1,True,Fulham,13
+Luka Vušković,578,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,DEF,39,Fulham,Tottenham,2,1,True,Fulham,13
+Son Heung-min,579,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,85,Fulham,Tottenham,2,1,True,Fulham,13
+Brennan Johnson,580,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,66,Fulham,Tottenham,2,1,True,Fulham,13
+James Maddison,581,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,68,Fulham,Tottenham,2,1,True,Fulham,13
+Mohammed Kudus,582,90,1,0,0,2,0,0,0,0,0,0,1,28,42.0,34.1,23.0,9.9,1,0.02,0.09,0.11,0.45,8,False,129,Tottenham,MID,65,Fulham,Tottenham,2,1,True,Fulham,13
+Dejan Kulusevski,583,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,64,Fulham,Tottenham,2,1,True,Fulham,13
+Mathys Tel,584,5,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.2,0.0,0.0,0,0.00,0.00,0.00,0.00,1,False,129,Tottenham,MID,63,Fulham,Tottenham,2,1,True,Fulham,13
+Rodrigo Bentancur,585,30,0,0,0,0,0,0,0,0,0,0,0,2,4.8,26.2,4.0,3.5,0,0.00,0.14,0.14,0.13,1,False,129,Tottenham,MID,53,Fulham,Tottenham,2,1,True,Fulham,13
+Lucas Bergvall,586,76,0,1,0,2,0,0,0,0,0,0,0,24,25.4,15.3,7.0,4.8,1,0.04,0.03,0.07,0.41,5,False,129,Tottenham,MID,54,Fulham,Tottenham,2,1,True,Fulham,13
+Yves Bissouma,587,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,52,Fulham,Tottenham,2,1,True,Fulham,13
+Wilson Odobert,588,30,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1.9,9.0,1.0,0,0.09,0.01,0.10,0.13,1,False,129,Tottenham,MID,53,Fulham,Tottenham,2,1,True,Fulham,13
+Manor Solomon,589,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,54,Fulham,Tottenham,2,1,True,Fulham,13
+Bryan Gil Salvatierra,590,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,49,Fulham,Tottenham,2,1,True,Fulham,13
+Archie Gray,591,59,0,0,0,2,0,0,0,0,0,0,0,8,3.0,2.1,3.0,0.8,1,0.02,0.01,0.03,0.32,1,False,129,Tottenham,MID,48,Fulham,Tottenham,2,1,True,Fulham,13
+Mikey Moore,592,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,50,Fulham,Tottenham,2,1,True,Fulham,13
+Pape Matar Sarr,593,13,0,0,0,0,0,0,0,0,0,0,0,3,2.2,0.0,0.0,0.2,0,0.00,0.00,0.00,0.04,1,False,129,Tottenham,MID,48,Fulham,Tottenham,2,1,True,Fulham,13
+Yang Min-hyeok,594,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,45,Fulham,Tottenham,2,1,True,Fulham,13
+Callum Olusesi,595,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,43,Fulham,Tottenham,2,1,True,Fulham,13
+Dominic Solanke-Mitchell,596,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,FWD,72,Fulham,Tottenham,2,1,True,Fulham,13
+Richarlison de Andrade,597,59,0,0,0,2,0,0,0,0,0,0,0,3,3.2,1.8,8.0,1.3,1,0.00,0.01,0.01,0.32,1,False,129,Tottenham,FWD,64,Fulham,Tottenham,2,1,True,Fulham,13
+Will Lankshear,598,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,FWD,45,Fulham,Tottenham,2,1,True,Fulham,13
+Dane Scarlett,599,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,FWD,43,Fulham,Tottenham,2,1,True,Fulham,13
+Alphonse Areola,600,90,0,0,0,2,0,0,0,0,0,3,0,9,23.2,0.0,0.0,2.3,1,0.00,0.00,0.00,1.24,2,False,130,West Ham,GK,43,Liverpool,West Ham,2,0,True,Liverpool,13
+Wes Foderingham,601,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,GK,40,Liverpool,West Ham,2,0,True,Liverpool,13
+Krisztián Hegyi,602,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,GK,39,Liverpool,West Ham,2,0,True,Liverpool,13
+El Hadji Malick Diouf,603,90,0,0,0,2,0,0,0,0,0,0,0,5,11.0,12.2,2.0,2.5,1,0.00,0.01,0.01,1.24,1,False,130,West Ham,DEF,42,Liverpool,West Ham,2,0,True,Liverpool,13
+Emerson Palmieri dos Santos,604,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,DEF,44,Liverpool,West Ham,2,0,True,Liverpool,13
+Maximilian Kilman,605,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,DEF,43,Liverpool,West Ham,2,0,True,Liverpool,13
+Konstantinos Mavropanos,606,90,0,0,0,2,0,0,0,0,0,0,0,12,20.4,0.4,2.0,2.3,1,0.00,0.00,0.00,1.24,3,False,130,West Ham,DEF,44,Liverpool,West Ham,2,0,True,Liverpool,13
+Nayef Aguerd,607,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,DEF,44,Liverpool,West Ham,2,0,True,Liverpool,13
+Ollie Scarles,608,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,DEF,43,Liverpool,West Ham,2,0,True,Liverpool,13
+Jean-Clair Todibo,609,90,0,0,0,2,0,0,0,0,0,0,0,8,14.0,1.3,0.0,1.5,1,0.00,0.01,0.01,1.24,1,False,130,West Ham,DEF,43,Liverpool,West Ham,2,0,True,Liverpool,13
+Aaron Wan-Bissaka,610,90,0,0,0,2,0,0,0,0,0,0,0,6,12.6,8.3,2.0,2.3,1,0.00,0.04,0.04,1.24,1,False,130,West Ham,DEF,42,Liverpool,West Ham,2,0,True,Liverpool,13
+Kaelan Casey,611,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,DEF,40,Liverpool,West Ham,2,0,True,Liverpool,13
+Lucas Tolentino Coelho de Lima,612,83,0,0,0,2,0,0,0,0,1,0,0,1,0.0,6.9,1.0,0.6,1,0.01,0.02,0.03,0.90,-1,False,130,West Ham,MID,59,Liverpool,West Ham,2,0,True,Liverpool,13
+Tomáš Souček,613,2,0,0,0,1,0,0,0,0,0,0,0,3,0.2,0.1,2.0,0.2,0,0.00,0.00,0.00,0.34,1,False,130,West Ham,MID,57,Liverpool,West Ham,2,0,True,Liverpool,13
+James Ward-Prowse,614,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,MID,56,Liverpool,West Ham,2,0,True,Liverpool,13
+Crysencio Summerville,615,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,MID,55,Liverpool,West Ham,2,0,True,Liverpool,13
+Edson Álvarez Velázquez,616,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,MID,49,Liverpool,West Ham,2,0,True,Liverpool,13
+Maxwel Cornet,617,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,MID,49,Liverpool,West Ham,2,0,True,Liverpool,13
+Guido Rodríguez,618,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,MID,48,Liverpool,West Ham,2,0,True,Liverpool,13
+Luis Guilherme Lira dos Santos,619,22,0,0,0,1,0,0,0,0,0,0,0,6,3.6,0.8,0.0,0.4,0,0.00,0.02,0.02,0.38,1,False,130,West Ham,MID,49,Liverpool,West Ham,2,0,True,Liverpool,13
+George Earthy,620,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,MID,45,Liverpool,West Ham,2,0,True,Liverpool,13
+Andy Irving,621,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,MID,44,Liverpool,West Ham,2,0,True,Liverpool,13
+Lewis Orford,622,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,MID,44,Liverpool,West Ham,2,0,True,Liverpool,13
+Freddie Potts,623,87,0,0,0,1,0,0,0,0,0,0,0,16,6.8,3.4,0.0,1.0,1,0.00,0.01,0.01,0.90,2,False,130,West Ham,MID,44,Liverpool,West Ham,2,0,True,Liverpool,13
+Jarrod Bowen,624,90,0,0,0,2,0,0,0,0,0,0,0,4,1.4,4.6,13.0,1.9,1,0.12,0.03,0.15,1.24,2,False,130,West Ham,FWD,76,Liverpool,West Ham,2,0,True,Liverpool,13
+Niclas Füllkrug,625,12,0,0,0,1,0,0,0,0,0,0,0,3,1.2,10.5,5.0,1.7,0,0.07,0.03,0.10,0.34,1,False,130,West Ham,FWD,56,Liverpool,West Ham,2,0,True,Liverpool,13
+Callum Marshall,626,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,FWD,43,Liverpool,West Ham,2,0,True,Liverpool,13
+Sam Johnstone,627,90,0,0,0,1,0,0,0,0,0,5,0,16,35.0,0.0,0.0,3.5,1,0.00,0.00,0.00,1.00,3,False,121,Wolverhampton,GK,45,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+José Malheiro de Sá,628,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,GK,43,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Daniel Bentley,629,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,GK,40,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Tom King,630,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,GK,39,Newcastle,Everton,4,1,True,Newcastle,13
+Emmanuel Agbadou,631,90,0,0,0,1,0,0,0,0,0,0,0,10,18.6,0.8,6.0,2.5,1,0.02,0.01,0.03,1.00,2,False,121,Wolverhampton,DEF,43,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Matt Doherty,632,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,DEF,44,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Hugo Bueno López,633,13,0,0,0,0,0,0,0,0,0,0,0,3,3.0,0.3,0.0,0.3,0,0.00,0.00,0.00,0.11,1,False,121,Wolverhampton,DEF,44,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Yerson Mosquera Valdelamar,634,76,0,0,0,1,0,0,0,1,0,0,0,3,8.0,11.4,22.0,4.1,1,0.05,0.01,0.06,0.89,1,False,121,Wolverhampton,DEF,43,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Rodrigo Martins Gomes,635,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,DEF,44,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Santiago Ignacio Bueno,636,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,DEF,44,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Toti Gomes,637,90,0,0,0,1,0,0,0,0,0,0,0,19,34.2,12.9,0.0,4.7,1,0.00,0.01,0.01,1.00,4,False,121,Wolverhampton,DEF,43,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Ki-Jana Hoever,638,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,DEF,39,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Bastien Meupiyou Menadjou,639,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,DEF,40,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Pedro Cardoso de Lima,640,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,DEF,40,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Alfie Pond,641,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,DEF,39,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Hwang Hee-chan,642,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,MID,57,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+André Trindade da Costa Neto,643,90,0,0,0,1,0,0,0,1,0,0,0,21,23.2,39.6,0.0,6.3,1,0.00,0.08,0.08,1.00,3,False,121,Wolverhampton,MID,53,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Jean-Ricner Bellegarde,644,68,0,0,0,1,0,0,0,0,0,0,0,13,3.8,2.3,7.0,1.3,1,0.03,0.02,0.05,0.54,2,False,121,Wolverhampton,MID,52,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Fer López González,645,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,MID,52,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+João Victor Gomes da Silva,646,90,0,0,0,1,0,0,0,0,0,0,0,18,12.0,9.7,19.0,4.1,1,0.17,0.02,0.19,1.00,4,False,121,Wolverhampton,MID,53,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Gonçalo Manuel Ganchinho Guedes,647,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,MID,55,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Marshall Munetsi,648,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,MID,54,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Boubacar Traoré,649,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,MID,50,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Tawanda Chirewa,650,21,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.45,1,False,121,Wolverhampton,MID,43,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Tom Edozie,651,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,MID,43,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Enso González Medina,652,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,MID,44,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Joe Hodge,653,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,MID,45,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Jørgen Strand Larsen,654,90,0,0,0,1,0,0,0,0,0,0,0,-1,7.6,2.3,21.0,3.1,1,0.11,0.00,0.11,1.00,2,False,121,Wolverhampton,FWD,63,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Fábio Soares Silva,655,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,FWD,49,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Saša Kalajdžić,656,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,FWD,49,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Leon Chiwome,657,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,FWD,44,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Nathan Fraser,658,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,FWD,43,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Kyle Walker-Peters,659,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,DEF,43,Liverpool,West Ham,2,0,True,Liverpool,13
+Anton Stach,660,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,MID,48,Leeds United,Manchester City,2,3,False,Manchester City,13
+Hugo Ekitiké,661,22,0,0,0,0,0,0,0,0,0,0,0,-2,1.0,2.1,5.0,0.8,0,0.04,0.01,0.05,0.15,1,False,130,Liverpool,FWD,85,Liverpool,West Ham,2,0,False,West Ham,13
+Cristhian Mosquera,662,90,0,0,0,1,0,0,0,1,0,0,0,9,12.4,5.0,0.0,1.7,1,0.00,0.03,0.03,0.79,1,False,123,Arsenal,DEF,54,Arsenal,Chelsea,1,1,False,Chelsea,13
+Jhon Arias,663,87,0,0,0,1,0,0,0,1,0,0,0,5,1.0,5.0,13.0,1.9,1,0.09,0.02,0.11,0.97,1,False,121,Wolverhampton,MID,50,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Benjamin Lecomte,664,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,GK,39,Fulham,Tottenham,2,1,False,Tottenham,13
+Lucas Estella Perri,665,90,0,0,0,3,0,0,0,0,0,6,0,13,49.0,0.0,0.0,4.9,1,0.00,0.00,0.00,3.10,3,False,126,Leeds United,GK,45,Leeds United,Manchester City,2,3,False,Manchester City,13
+Viktor Gyökeres,666,18,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.3,2.0,0.2,0,0.00,0.00,0.00,0.17,0,False,123,Arsenal,FWD,88,Arsenal,Chelsea,1,1,False,Chelsea,13
+Adam Aznou,667,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,DEF,43,Newcastle,Everton,4,1,True,Newcastle,13
+Granit Xhaka,668,90,0,1,0,2,0,0,0,0,0,0,0,19,28.2,35.6,0.0,6.4,1,0.00,0.09,0.09,1.70,5,False,128,Sunderland,MID,52,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Dan Ndoye,669,45,0,0,0,1,0,0,0,0,0,0,0,0,7.0,10.6,7.0,2.5,1,0.06,0.01,0.07,1.12,1,False,127,Nottingham,MID,56,Brighton,Nottingham,2,0,True,Brighton,13
+Robin Roefs,670,90,0,0,0,2,0,0,0,1,0,4,0,11,35.4,0.0,0.0,3.5,1,0.00,0.02,0.02,1.70,1,False,128,Sunderland,GK,47,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Callum Wilson,671,77,0,0,0,1,0,0,0,0,0,0,0,5,0.0,0.3,9.0,0.8,1,0.08,0.01,0.09,0.90,2,False,130,West Ham,FWD,58,Liverpool,West Ham,2,0,True,Liverpool,13
+Jorrel Hato,672,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,DEF,47,Arsenal,Chelsea,1,1,True,Arsenal,13
+João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,673,59,0,0,0,2,0,0,0,0,0,0,0,8,7.4,3.2,2.0,1.3,1,0.00,0.05,0.05,0.32,1,False,129,Tottenham,MID,55,Fulham,Tottenham,2,1,True,Fulham,13
+Aaron Ramsdale,674,90,0,0,0,1,0,0,0,0,0,1,0,5,7.8,0.0,0.0,0.8,1,0.00,0.00,0.00,0.99,2,False,125,Newcastle,GK,48,Newcastle,Everton,4,1,False,Everton,13
+Angus Gunn,675,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,GK,40,Brighton,Nottingham,2,0,True,Brighton,13
+Lesley Ugochukwu,676,30,0,0,0,3,0,0,0,0,0,0,0,6,5.6,0.4,0.0,0.6,0,0.00,0.00,0.00,1.72,1,False,122,Burnley,MID,50,Burnley,Brentford,1,3,False,Brentford,13
+Evann Guessand,677,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,62,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Arthur Masuaku,678,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Sunderland,DEF,39,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Mads Hermansen,679,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,GK,43,Liverpool,West Ham,2,0,True,Liverpool,13
+Armando Broja,680,9,0,0,0,2,0,0,0,0,0,0,0,2,0.0,1.5,2.0,0.4,0,0.00,0.01,0.01,0.76,1,False,122,Burnley,FWD,52,Burnley,Brentford,1,3,False,Brentford,13
+Benjamin Sesko,681,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,FWD,72,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+David Møller Wolfe,682,76,0,0,0,1,0,0,0,1,0,0,0,-2,5.0,15.3,6.0,2.6,1,0.00,0.03,0.03,0.89,1,False,121,Wolverhampton,DEF,43,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Omar Alderete,683,90,0,0,0,2,0,0,0,1,0,0,0,-2,12.2,0.3,4.0,1.7,1,0.00,0.00,0.00,1.70,0,False,128,Sunderland,DEF,41,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Malick Thiaw,684,90,2,0,0,1,0,0,0,0,0,0,2,40,85.0,0.7,66.0,15.2,1,0.39,0.01,0.40,0.99,16,True,125,Newcastle,DEF,49,Newcastle,Everton,4,1,False,Everton,13
+Bafodé Diakité,685,90,0,0,0,3,0,0,0,0,0,0,0,5,17.4,1.8,4.0,2.3,1,0.02,0.01,0.03,1.28,1,False,128,Bournemouth,DEF,44,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Rio Ngumoha,686,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,44,Liverpool,West Ham,2,0,False,West Ham,13
+Remy Rees-Dottin,687,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,MID,44,Bournemouth,Sunderland,2,3,False,Sunderland,13
+James Wright,688,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,GK,39,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Seung-Soo Park,689,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,MID,44,Newcastle,Everton,4,1,False,Everton,13
+Rio Cardines,690,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,MID,44,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Dominic Calvert-Lewin,691,45,1,0,0,1,0,0,0,0,0,0,2,30,35.0,0.3,21.0,5.6,0,0.13,0.00,0.13,0.43,7,False,126,Leeds United,FWD,55,Leeds United,Manchester City,2,3,False,Manchester City,13
+Giovanni Leoni,692,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,DEF,49,Liverpool,West Ham,2,0,False,West Ham,13
+Omari Hutchinson,693,45,0,0,0,1,0,0,0,0,0,0,0,13,16.0,47.8,12.0,7.6,0,0.03,0.12,0.15,0.41,1,False,127,Nottingham,MID,54,Brighton,Nottingham,2,0,True,Brighton,13
+Nordi Mukiele,694,90,0,0,0,2,0,0,0,1,0,0,0,5,11.4,12.1,0.0,2.4,1,0.00,0.00,0.00,1.70,0,False,128,Sunderland,DEF,42,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Jackson Tchatchoua,695,90,0,0,0,1,0,0,0,0,0,0,0,14,16.6,29.4,4.0,5.0,1,0.00,0.13,0.13,1.00,2,False,121,Wolverhampton,DEF,45,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Arnaud Kalimuendo,696,15,0,0,0,1,0,0,0,0,0,0,0,3,1.0,1.3,0.0,0.2,0,0.00,0.00,0.00,0.09,1,False,127,Nottingham,FWD,60,Brighton,Nottingham,2,0,True,Brighton,13
+Amine Adli,697,70,1,0,0,3,0,0,0,0,0,0,0,30,40.2,14.5,23.0,7.8,1,0.36,0.01,0.37,1.20,7,False,128,Bournemouth,MID,54,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Noah Okafor,698,8,0,0,0,1,0,0,0,0,0,0,0,3,0.0,0.0,2.0,0.2,0,0.00,0.00,0.00,0.36,1,False,126,Leeds United,MID,55,Leeds United,Manchester City,2,3,False,Manchester City,13
+Douglas Luiz Soares de Paulo,699,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,MID,50,Brighton,Nottingham,2,0,True,Brighton,13
+Max Dowman,700,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,MID,43,Arsenal,Chelsea,1,1,False,Chelsea,13
+Triston Rowe,701,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,DEF,40,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Bradley Burrowes,702,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,44,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Sam Proctor,703,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,GK,40,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Tyler Onyango,704,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,MID,45,Newcastle,Everton,4,1,True,Newcastle,13
+Elijah Campbell,705,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,DEF,39,Newcastle,Everton,4,1,True,Newcastle,13
+James Justin,706,68,0,0,0,2,0,0,0,0,0,0,0,3,15.8,0.4,2.0,1.8,1,0.00,0.00,0.00,2.73,1,False,126,Leeds United,DEF,39,Leeds United,Manchester City,2,3,False,Manchester City,13
+Tyler Dibling,707,10,0,0,0,0,0,0,0,0,0,0,0,6,7.0,11.3,2.0,2.0,0,0.00,0.01,0.01,0.00,1,False,125,Everton,MID,53,Newcastle,Everton,4,1,True,Newcastle,13
+Mateus Gonçalo Espanha Fernandes,708,90,0,0,0,2,0,0,0,0,0,0,0,18,15.2,44.4,2.0,6.2,1,0.02,0.18,0.20,1.24,2,False,130,West Ham,MID,55,Liverpool,West Ham,2,0,True,Liverpool,13
+Ladislav Krejcí,709,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Wolverhampton,DEF,45,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Travis Patterson,710,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,DEF,39,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Andre Harriman-Annous,711,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Arsenal,MID,45,Arsenal,Chelsea,1,1,False,Chelsea,13
+Yéremy Pino Santos,712,77,0,0,0,2,0,0,0,0,0,0,0,4,5.8,42.2,7.0,5.5,1,0.18,0.27,0.45,1.10,2,False,124,Crystal Palace,MID,58,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Álex Jiménez Sánchez,713,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,DEF,45,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Nick Woltemade,714,89,1,0,0,1,0,0,0,0,0,0,1,33,41.2,13.3,29.0,8.4,1,0.59,0.11,0.70,0.94,7,False,125,Newcastle,FWD,74,Newcastle,Everton,4,1,False,Everton,13
+John Victor Maciel Furtado,715,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,GK,40,Brighton,Nottingham,2,0,True,Brighton,13
+Nicolò Savona,716,90,0,0,0,2,0,0,0,0,0,0,0,4,7.4,2.3,24.0,3.4,1,0.04,0.02,0.06,1.53,1,False,127,Nottingham,DEF,45,Brighton,Nottingham,2,0,True,Brighton,13
+Xavi Simons,717,30,0,0,0,0,0,0,0,0,0,0,0,2,1.8,1.7,9.0,1.3,0,0.10,0.01,0.11,0.13,1,False,129,Tottenham,MID,66,Fulham,Tottenham,2,1,True,Fulham,13
+Soungoutou Magassa,718,67,0,0,0,1,0,0,0,1,0,0,0,7,6.6,11.5,0.0,1.8,1,0.00,0.01,0.01,0.86,1,False,130,West Ham,MID,50,Liverpool,West Ham,2,0,True,Liverpool,13
+Victor Lindelöf,719,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,DEF,45,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Tolu Arokodare,720,2,0,0,0,0,0,0,0,0,0,0,0,3,2.0,0.0,0.0,0.2,0,0.00,0.00,0.00,0.03,1,False,121,Wolverhampton,FWD,55,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+Veljko Milosavljevic,721,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,128,Bournemouth,DEF,45,Bournemouth,Sunderland,2,3,False,Sunderland,13
+Florentino Ibrain Morris Luís,722,74,0,0,1,0,0,0,0,0,0,0,0,18,20.2,4.3,0.0,2.5,1,0.00,0.01,0.01,1.52,5,False,122,Burnley,MID,50,Burnley,Brentford,1,3,False,Brentford,13
+Jaydee Canvot,723,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Crystal Palace,DEF,45,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Lutsharel Geertruida,724,4,0,0,0,0,0,0,0,0,0,0,0,3,1.2,0.0,0.0,0.1,0,0.00,0.00,0.00,0.03,1,False,128,Sunderland,DEF,45,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Piero Hincapié,725,90,0,0,0,1,0,0,0,1,0,0,0,9,14.0,2.1,0.0,1.6,1,0.00,0.43,0.43,0.79,1,False,123,Arsenal,DEF,54,Arsenal,Chelsea,1,1,False,Chelsea,13
+Randal Kolo Muani,726,90,0,0,0,2,0,0,0,1,0,0,0,-10,0.0,6.8,27.0,2.9,1,0.40,0.02,0.42,0.45,1,False,129,Tottenham,FWD,69,Fulham,Tottenham,2,1,True,Fulham,13
+Samuel Chukwueze,727,80,0,1,0,1,0,0,0,0,0,0,0,17,22.0,22.3,21.0,6.5,1,0.11,0.69,0.80,0.61,5,False,129,Fulham,MID,53,Fulham,Tottenham,2,1,False,Tottenham,13
+Merlin Röhl,728,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Everton,MID,50,Newcastle,Everton,4,1,True,Newcastle,13
+Luis Eduardo Soares da Silva,729,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,DEF,45,Brighton,Nottingham,2,0,True,Brighton,13
+Brian Brobbey,730,27,1,0,0,0,0,0,0,0,0,0,1,31,36.2,0.3,34.0,7.1,0,0.13,0.00,0.13,0.17,6,False,128,Sunderland,FWD,55,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Kevin Santos Lopes de Macedo,731,9,0,0,0,0,0,0,0,0,0,0,0,6,7.4,0.1,7.0,1.5,0,0.04,0.00,0.04,0.26,1,False,129,Fulham,MID,58,Fulham,Tottenham,2,1,False,Tottenham,13
+Christantus Uche,732,12,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.8,0.0,0.1,0,0.00,0.00,0.00,0.09,1,False,124,Crystal Palace,FWD,55,Manchester United,Crystal Palace,2,1,True,Manchester United,13
+Senne Lammens,733,90,0,0,0,1,0,0,0,0,0,2,0,11,22.0,0.0,0.0,2.2,1,0.00,0.00,0.00,1.83,2,False,124,Manchester United,GK,50,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
+Dilane Bakwa,734,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Nottingham,MID,59,Brighton,Nottingham,2,0,True,Brighton,13
+Bertrand Traoré,735,62,1,0,0,2,0,0,0,0,0,0,1,31,46.6,22.6,33.0,10.2,1,0.07,0.07,0.14,1.53,8,False,128,Sunderland,MID,55,Bournemouth,Sunderland,2,3,True,Bournemouth,13
+Gianluigi Donnarumma,736,90,0,0,0,2,0,1,0,1,0,1,0,9,33.0,0.0,0.0,3.3,1,0.00,0.00,0.00,1.54,5,False,126,Manchester City,GK,57,Leeds United,Manchester City,2,3,True,Leeds United,13
+Jonah Kusi-Asare,737,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Fulham,FWD,45,Fulham,Tottenham,2,1,False,Tottenham,13
+Lukasz Fabianski,738,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,GK,45,Liverpool,West Ham,2,0,True,Liverpool,13
+Divine Mukasa,739,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,45,Leeds United,Manchester City,2,3,True,Leeds United,13
+Stephen Mfuni,740,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,DEF,40,Leeds United,Manchester City,2,3,True,Leeds United,13
+Harry Gray,741,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Leeds United,FWD,45,Leeds United,Manchester City,2,3,False,Manchester City,13
+Ryan McAidoo,742,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,126,Manchester City,MID,45,Leeds United,Manchester City,2,3,True,Leeds United,13
+Landon Emenalo,743,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,123,Chelsea,MID,45,Arsenal,Chelsea,1,1,True,Arsenal,13
+Nehemiah Oriola,744,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,127,Brighton,MID,45,Brighton,Nottingham,2,0,False,Nottingham,13
+Jun'ai Byfield,745,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,DEF,40,Fulham,Tottenham,2,1,True,Fulham,13
+Kieran Morrison,746,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,Liverpool,MID,45,Liverpool,West Ham,2,0,False,West Ham,13
+Ezra Mayers,747,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,DEF,40,Liverpool,West Ham,2,0,True,Liverpool,13
+Josh Dasilva,748,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,122,Brentford,MID,50,Burnley,Brentford,1,3,True,Burnley,13
+Mateus Mané,749,13,0,0,0,0,0,0,0,0,0,0,0,4,3.2,0.2,7.0,1.0,0,0.03,0.00,0.03,0.11,1,False,121,Wolverhampton,FWD,45,Wolverhampton,Aston Villa,0,1,False,Aston Villa,13
+James Rowswell,750,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,DEF,40,Fulham,Tottenham,2,1,True,Fulham,13
+Yusuf Akhamrich,751,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,129,Tottenham,MID,45,Fulham,Tottenham,2,1,True,Fulham,13
+Airidas Golambeckis,752,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,130,West Ham,DEF,40,Liverpool,West Ham,2,0,True,Liverpool,13
+John Ruddy,753,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,125,Newcastle,GK,40,Newcastle,Everton,4,1,False,Everton,13
+George Hemmings,754,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,121,Aston Villa,MID,45,Wolverhampton,Aston Villa,0,1,True,Wolverhampton,13
+Shea Lacey,755,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,0,False,124,Manchester United,MID,45,Manchester United,Crystal Palace,2,1,False,Crystal Palace,13
