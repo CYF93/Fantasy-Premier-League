@@ -25,13 +25,13 @@ Data columns (total 44 columns):
  21  expected_assists                
  22  expected_goal_involvements      
  23  expected_goals_conceded         
- 24  mng_win (unavailable for 2025/2026 season)                           
- 25  mng_draw (unavailable for 2025/2026 season)                        
- 26  mng_loss (unavailable for 2025/2026 season)                         
- 27  mng_underdog_win (unavailable for 2025/2026 season)                  
- 28  mng_underdog_draw (unavailable for 2025/2026 season)                
- 29  mng_clean_sheets (unavailable for 2025/2026 season)                 
- 30  mng_goals_scored (unavailable for 2025/2026 season)                 
+ 24  mng_win (only for 2024/2025 season)                           
+ 25  mng_draw (only for 2024/2025 season)                        
+ 26  mng_loss (only for 2024/2025 season)                         
+ 27  mng_underdog_win (only for 2024/2025 season)                  
+ 28  mng_underdog_draw (only for 2024/2025 season)                
+ 29  mng_clean_sheets (only for 2024/2025 season)                 
+ 30  mng_goals_scored (only for 2024/2025 season)                 
  31  total_points                      
  32  in_dreamteam                       
  33  fixture                           
